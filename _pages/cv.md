@@ -26,10 +26,10 @@ redirect_from:
 
 **Prix et bourses**
 * 06/2023: <a href="https://iccs-ciec.ca/pierre-savard-awards/">Pierre Savard Award</a>, pour la monographie <a href="http://www.degruyter.com/document/isbn/9783110707649/html">"Les normes de prononciation du français. Une étude perceptive panfrancophone"</a>
-* 02/2016: Bourse de rédaction de thèse du Conseil International d’Études Canadiennes (CIEC)
+* 02/2016: <a href="https://romanistik.univie.ac.at/aktuelles/fruehere-ankuendigungen/fruehere-ankuendigungen-detail/news/zuerkennung-eines-foerderpreises-an-marc-chalier-ba-ma-vom-wissenschaftlichen-ausschuss-des-internat/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=7a68fed57af68ca94d83f00728654bdc">Bourse de rédaction de thèse</a> du <a href="http://www.iccs-ciec.ca/graduate-student-scholarships.php">Conseil International d’Études Canadiennes</a> (CIEC)
 * 06/2015: Prix pour la meilleure communication étudiante, Conférence de l’<i>Association for French Language Studies</i> (AFLS) 2015, Caen
 * 03/2015-02/2016: Bourse d’excellence Pro Scientia, financée par le Gouvernement d'Autriche
-* 02/2015: Prix d’excellence du Gouvernement du Québec, pour le mémoire de Maîtrise "Quel standard québécois ? Une étude perceptive", décerné par le Gouvernement du Québec
+* 02/2015: <a href="https://medienportal.univie.ac.at/uniview/uni-intern/detailansicht/artikel/preise-und-auszeichnungen-im-mai-2015/">Prix d'Excellence du Gouvernement du Québec 2015</a>, pour le mémoire de Master "Quel standard québécois ? Une étude perceptive", décerné par le Gouvernement du Québec
 * 10/2011-09/2014: Bourse d’excellence Max Weber-Programm, décernée par l’État fédéré de Bavière
 
 **Expertises**
