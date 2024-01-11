@@ -11,7 +11,7 @@ title                    : "Marc CHALIER"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://marcchalier.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marcchalier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   avatar           : "marc_chalier.png"
   bio              : "Maître de conférences (Associate Professor) en linguistique française"
   location         :
-  employer         : Sorbonne Université
+  employer         : "Sorbonne Université"
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=2NK9fysAAAAJ&hl=de"
   email            : "Marc.Chalier@sorbonne-universite.fr"
