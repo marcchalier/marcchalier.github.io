@@ -32,6 +32,15 @@ redirect_from:
 * 02/2015: Prix d’excellence du Gouvernement du Québec, pour le mémoire de Maîtrise "Quel standard québécois ? Une étude perceptive", décerné par le Gouvernement du Québec
 * 10/2011-09/2014: Bourse d’excellence Max Weber-Programm, décernée par l’État fédéré de Bavière
 
+**Expertises**
+* Revues
+  * Depuis 2021: <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies">Journal of French Language Studies</a>
+  * Depuis 2023: <a href="https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique">Canadian Journal of Linguistics</a>
+* Colloques
+  * 2022: <i>L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</i> (APS22) (Grenoble)
+* Ouvrages collectifs
+  * 2022: Pustka, Elissa (éd.): <i>La bande dessinée : perspectives linguistiques et didactiques</i>, Tübingen: Narr.
+
 
 * Summer 2015: Research Assistant
   * Github University
