@@ -40,10 +40,11 @@ redirect_from:
 * Revues
   * Depuis 2021: <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies">Journal of French Language Studies</a>
   * Depuis 2023: <a href="https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique">Canadian Journal of Linguistics</a>
-* Colloques
-  * 2022: <i>L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</i> (APS22) (Grenoble)
+* Colloques et conférences
+  * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française</a> (CMLF2024), Lausanne.
+  * 2022: <a href="https://aps2022.sciencesconf.org/">L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</a> (APS22), Grenoble.
 * Ouvrages collectifs
-  * 2022: Pustka, Elissa (éd.): <i>La bande dessinée : perspectives linguistiques et didactiques</i>, Tübingen: Narr.
+  * 2022: Pustka, Elissa (éd.): <a href="https://www.narr.de/la-bande-dessin%C3%A9e-18486/">La bande dessinée : perspectives linguistiques et didactiques</a>, Tübingen: Narr.
 
 ---
 **Assistants-étudiants**
