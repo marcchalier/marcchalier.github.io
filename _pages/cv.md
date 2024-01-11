@@ -10,9 +10,12 @@ redirect_from:
 {% include base_path %}
 
 **Parcours**
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 09/2023-aujourd'hui: Maître de conférences, UFR de Langue française, Sorbonne Université
+* 05/2022-08/2023: Maître de conférences (Akademischer Mitarbeiter), Institut de plurilinguisme, Université de pédagogie de Karlsruhe
+* 11/2018-04/2022: Postdoctorant (Wissenschaftlicher Mitarbeiter), Chaire de linguistique des langues romanes, Université de Passau
+* 09/2018-02/2019: Chargé de cours, Institut de philologie romane, Université de Vienne
+* 09/2014-08/2018: Doctorant (Universitätsassistent, Prae Doc), Institut de philologie romane, Université de Vienne
+* 10/2011-08/2014: Assistant-étudiant, Institut de philologie romane, Université de Munich
 
 **Formation**
 * Summer 2015: Research Assistant
