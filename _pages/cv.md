@@ -41,13 +41,6 @@ redirect_from:
 * Ouvrages collectifs
   * 2022: Pustka, Elissa (éd.): <i>La bande dessinée : perspectives linguistiques et didactiques</i>, Tübingen: Narr.
 
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Assistants-étudiants**
+* Universität Passau: Maike Grömping (2021), Viktoria Wruss (2022), Linda Schönbrunner (2023), Eva Hutterer (2023)
+* Pädagogische Hochschule Karlsruhe: Paul Mereb (2022), Isabelle Pawlowski (2022/2023)
