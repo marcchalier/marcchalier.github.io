@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marc Chalier"
   avatar           : "marc_chalier.png"
-  bio              : "Maître de conférences (Associate Professor) en linguistique française"
+  bio              : "Maître de conférences (Associate Professor) en linguistique française à Sorbonne Université"
   location         :
-  employer         : "Sorbonne Université"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?user=2NK9fysAAAAJ&hl=de"
   email            : "Marc.Chalier@sorbonne-universite.fr"
