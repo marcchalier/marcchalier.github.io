@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
-- **2015-10-01:** Paper Title Number 1
-- **2015-10-01:** Paper Title Number 2
-- **2015-10-01:** Paper Title Number 3
+(en cours de construction)
+
+**Thèse**
+(publication soumise à une évaluation anonyme par les pairs)
+2021: Chalier, Marc: Les normes de prononciation du français : une étude perceptive panfrancophone, Berlin/Boston : De Gruyter (Open Access : https://www.degruyter.com/document/doi/10.1515/9783110707540/html)
+* Comptes rendus
+  * Romanische Forschungen (2023), 35.2, 210-215 (Felix Tacke).
+  * French Studies (2022), knac224, 1-2 (David Hornsby).
+  * Sociolinguistica: European Journal of Sociolinguistics (2022), 36.1-2, 253-257 (Wim Remysen).
+  * Modern & Contemporary France (2022), 1-2 (Héloïse Elisabeth Marie-Vincent Ghislaine Ducatteau).
