@@ -20,3 +20,6 @@ redirect_from:
 
 * 05/2023: "Linguistik im Fremdsprachenunterricht – (un)möglich?", Conférence sur invitation, Université de Gießen.
 * 04/2023: "Autonomisation des normes ‘périphériques’: le cas du français laurentien", Conférence sur invitation, Université d'Aix-Marseille.
+
+**Prix**
+* 06/2023: <a href="https://iccs-ciec.ca/pierre-savard-awards/">Pierre Savard Award</a>, pour la monographie <a href="http://www.degruyter.com/document/isbn/9783110707649/html">“Les normes de prononciation du français. Une étude perceptive panfrancophone”</a>
