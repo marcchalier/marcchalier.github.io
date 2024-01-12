@@ -25,4 +25,4 @@ redirect_from:
 * 06/2023: <a href="https://iccs-ciec.ca/pierre-savard-awards/">Pierre Savard Award</a>, pour la monographie <a href="http://www.degruyter.com/document/isbn/9783110707649/html">“Les normes de prononciation du français. Une étude perceptive panfrancophone”</a>
 
 **Intervention à la radio**
-12/2023: Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom""</a>.
+* 12/2023: Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom""</a>.
