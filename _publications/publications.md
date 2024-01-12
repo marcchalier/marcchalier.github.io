@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+---
 (en cours de construction)
 
 **Thèse** (publication soumise à une évaluation anonyme par les pairs)
