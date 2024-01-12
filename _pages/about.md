@@ -16,7 +16,7 @@ redirect_from:
 **Conférences**
 * 11/2023: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht", Conférence sur invitation, Université de Heidelberg.
 
-<img src="Conférence_invitée_Chalier_Heidelberg_2023.jpg" />
+<img src="images/Conférence_invitée_Chalier_Heidelberg_2023.jpg" />
 
 * 05/2023: "Linguistik im Fremdsprachenunterricht – (un)möglich?", Conférence sur invitation, Université de Gießen.
 * 04/2023: "Autonomisation des normes ‘périphériques’: le cas du français laurentien", Conférence sur invitation, Université d'Aix-Marseille.
