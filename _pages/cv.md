@@ -10,6 +10,15 @@ redirect_from:
 {% include base_path %}
 
 ---
+**Spécialités de recherche**
+* Phonétique et phonologie
+* Sociolinguistique
+* Francophonie et variétés du français
+* Perceptions, représentations et attitudes
+* Didactique du français langue étrangère (FLE)
+* Méthodes empiriques (notamment : corpus, enquêtes de terrain, entretiens, observations, questionnaires)
+
+---
 **Parcours**
 * 09/2023-aujourd'hui: Maître de conférences, UFR de Langue française, Sorbonne Université
 * 05/2022-08/2023: Maître de conférences (Akademischer Mitarbeiter), Institut de plurilinguisme, Université de pédagogie de Karlsruhe
