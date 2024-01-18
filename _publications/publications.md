@@ -37,3 +37,11 @@ Comptes rendus
 * Heiszenberger, Elisabeth/<b>Chalier, Marc</b>/Courdès-Murphy, Léa/Pustka, Elissa (2022): "David contre Goliath : la liaison chez les élèves de FLE face à celui des présentateurs de télévision", in: Neveu, Franck/Hriba, Linda/Prévost, Sophie/Steuckardt, Agnès (éds.): <i>Actes du Congrès Mondial de Linguistique française 2022</i>. Paris: EDP Sciences, 1-16.
 * <b>Chalier, Marc</b> (2020): "Un idiolecte en changement : l’affrication de /t/ et /d/ chez le présentateur de télévision québécois Bernard Derome de 1970 à 2008", in: Hafner, Jochen/Postlep, Sebastian/Pustka, Elissa (éds.): <i>Changement et stabilité : la langue française dans les médias audio-visuels du XIXe au XXIe siècle</i>. Münster: Lit-Verlag, 87-130.
 * <b>Chalier, Marc</b>/Eiber, Bettina/Reutner, Ursula (2020): "Sciences naturelles avares en mots et sciences humaines en étalant trop ? Réponses statistiques à de vieux stéréotypes sur le discours scientifique", in: Neveu, Franck/Hriba, Linda/Prévost, Sophie/Steuckardt, Agnès (éds.): <i>Actes du Congrès Mondial de Linguistique française 2020</i>. Paris: EDP Sciences, 1-15.
+
+**Articles dans des revues pour enseignants**
+* <b>Chalier, Marc</b> (2020): "Comment prononcer le français ? Le long débat autour de la norme à la lumière de la recherche actuelle", in: <i>Französisch heute</i> 51.1, 12-16.
+
+**Comptes rendus**
+* <b>Chalier, Marc</b> (2020): Stahnke, Johanna (2017): "Konzeptionelle Nähe und sprachliche Routinisierung. Konversationelle Selbstreparaturen im Französischen", Berlin/Boston: De Gruyter, in: <i>Romanische Forschungen</i> 132.1, 93-98.
+* <b>Chalier, Marc<b> (2020): Reutner, Ursula (éd.) (2017): "Manuel des francophonies", Berlin/Boston: De Gruyter, in: <i>La Linguistique</i> 56.2, 170-176.
+* Chalier, Marc (2019): Canepari, Luciano (2017): "French Pronunciation & Accents. Geo-social Application of the Natural Phonetics & Tonetics Method" (Lincom Studies in Phonetics, 21), Munich: Lincom, in: <i>Zeitschrift für französische Sprache und Literatur</i>.
