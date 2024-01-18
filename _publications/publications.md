@@ -22,7 +22,7 @@ Comptes rendus
 * <a href="https://www.tandfonline.com/doi/full/10.1080/09639489.2022.2047625?needAccess=true">"Modern & Contemporary France (2022), 1-2"</a>, 1-2 (Héloïse Elisabeth Marie-Vincent Ghislaine Ducatteau).
 
 **Articles dans des revues avec comité de lecture**
-* <b>Chalier, Mar</b> (2019): "La norme de prononciation québécoise en changement (1970-2008) ? L’affrication de /t/ et /d/ et l’antériorisation de /ɑ̃/ chez les présentateurs des journaux télévisés de Radio-Canada", <i>Revue Canadienne de Linguistique/Canadian Journal of Linguistics</i> 64.3, 407-433.
+* <b>Chalier, Marc</b> (2019): "La norme de prononciation québécoise en changement (1970-2008) ? L’affrication de /t/ et /d/ et l’antériorisation de /ɑ̃/ chez les présentateurs des journaux télévisés de Radio-Canada", <i>Revue Canadienne de Linguistique/Canadian Journal of Linguistics</i> 64.3, 407-433.
 * Pustka, Elissa/Bellonie, Jean-David/<b>Chalier, Marc</b>/Jansen, Luise (2019): "C’est toujours l’autre qui a un accent : le prestige méconnu des accents du Sud, des Antilles et du Québec", <i>Glottopol</i> 31, 27-52.
 * <b>Chalier, Marc</b> (2018): "Quelle norme de prononciation au Québec ? Attitudes, représentations et perceptions", <i>Langage et société</i> 163.1, 121-144.
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2017): "À la recherche d’une norme de prononciation : le modèle des présentateurs de télévision", <i>Journal of French Language Studies</i> 27.1, 101-115.
