@@ -47,7 +47,7 @@ Comptes rendus
 * <b>Chalier, Marc</b> (2019): Canepari, Luciano (2017): "French Pronunciation & Accents. Geo-social Application of the Natural Phonetics & Tonetics Method" (Lincom Studies in Phonetics, 21), Munich: Lincom, in: <i>Zeitschrift für französische Sprache und Literatur</i>.
 
 **Corpus**
-Chalier, Marc (à paraître): "Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)", in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
+* <b>Chalier, Marc</b> (à paraître): "Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)", in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
 
 **Radio**
-(2022): Bayern 2, Interview dans le cadre de l’émission Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom (26/12/2022).
+* (2023 et 2022): Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""<i>Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom</i>""</a> (12/2022 et 12/2023).
