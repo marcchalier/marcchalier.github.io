@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 ---
-(en cours de construction)
-
 **Communications scientifiques (sur invitation)**
 1. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (02/11/2023).
 2. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
@@ -18,6 +16,7 @@ redirect_from:
 6. 2022a: "Les normes de prononciation – France, Suisse, Québec" (invitation: André Thibault), Sorbonne Université, Paris (04/10/2022).
 7. 2021a: "Le français langue plurielle: prononciation de référence et prononciations standards" (invitation: Felix Tacke), Université rhénane Frédéric-Guillaume de Bonn (en ligne) (16/12/2021).
 
+---
 **Communications scientifiques (sur proposition)**
 1. 2024a: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Innsbruck (en ligne) (19/01/2024).
 2. 2023a: "Les réalisations du /R/ en Algérie et en Côte d’Ivoire à la lumière du Corpus PFC", Colloque international – (Inter)Phonologie du Français Contemporain 2023, Paris (23-25/12/2023).
