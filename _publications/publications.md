@@ -10,7 +10,7 @@ redirect_from:
 (en cours de construction)
 
 **Thèse**
-<br>2021: Chalier, Marc: Les normes de prononciation du français : une étude perceptive panfrancophone, Berlin/Boston : De Gruyter (Open Access : https://www.degruyter.com/document/doi/10.1515/9783110707540/html)
+<br>Chalier, Marc (2021): <i>Les normes de prononciation du français : une étude perceptive panfrancophone</i>, Berlin/Boston : De Gruyter (Open Access : https://www.degruyter.com/document/doi/10.1515/9783110707540/html)
 <br>(publication soumise à une évaluation anonyme par les pairs)
 
 <center> <img src="https://studip.uni-passau.de/studip/sendfile.php?type=0&amp;file_id=2fb46abb9e8bde242bff96f3f5fd142f&amp;file_name=Les_normes_de_prononciation_du_francais_Chalier.jpg" alt="Les_normes_de_prononciation_du_francais_Chalier.jpg"> </center>
@@ -34,6 +34,6 @@ Comptes rendus
 * <b>Chalier, Marc</b> (2021): "Variation et pluralité des normes dans l’enseignement du français langue étrangère : une analyse de deux manuels scolaires allemands", in: Pustka, Elissa (éd.): La prononciation du français langue étrangère : perspectives linguistiques et didactiques. Tübingen: Narr, 365-402.
 
 **Articles dans des actes de colloque (avec comité de lecture)**
-* Heiszenberger, Elisabeth/Chalier, Marc/Courdès-Murphy, Léa/Pustka, Elissa (2022): "David contre Goliath : la liaison chez les élèves de FLE face à celui des présentateurs de télévision", in: Neveu, Franck/Hriba, Linda/Prévost, Sophie/Steuckardt, Agnès (éds.): Actes du Congrès Mondial de Linguistique française 2022. Paris: EDP Sciences, 1-16.
-* Chalier, Marc (2020): "Un idiolecte en changement : l’affrication de /t/ et /d/ chez le présentateur de télévision québécois Bernard Derome de 1970 à 2008", in: Hafner, Jochen/Postlep, Sebastian/Pustka, Elissa (éds.): Changement et stabilité : la langue française dans les médias audio-visuels du XIXe au XXIe siècle. Münster: Lit-Verlag, 87-130.
-* Chalier, Marc/Eiber, Bettina/Reutner, Ursula (2020): "Sciences naturelles avares en mots et sciences humaines en étalant trop ? Réponses statistiques à de vieux stéréotypes sur le discours scientifique", in: Neveu, Franck/Hriba, Linda/Prévost, Sophie/Steuckardt, Agnès (éds.): Actes du Congrès Mondial de Linguistique française 2020. Paris: EDP Sciences, 1-15.
+* Heiszenberger, Elisabeth/Chalier, Marc/Courdès-Murphy, Léa/Pustka, Elissa (2022): "David contre Goliath : la liaison chez les élèves de FLE face à celui des présentateurs de télévision", in: Neveu, Franck/Hriba, Linda/Prévost, Sophie/Steuckardt, Agnès (éds.): <i>Actes du Congrès Mondial de Linguistique française 2022</i>. Paris: EDP Sciences, 1-16.
+* Chalier, Marc (2020): "Un idiolecte en changement : l’affrication de /t/ et /d/ chez le présentateur de télévision québécois Bernard Derome de 1970 à 2008", in: Hafner, Jochen/Postlep, Sebastian/Pustka, Elissa (éds.): <i>Changement et stabilité : la langue française dans les médias audio-visuels du XIXe au XXIe siècle</i>. Münster: Lit-Verlag, 87-130.
+* Chalier, Marc/Eiber, Bettina/Reutner, Ursula (2020): "Sciences naturelles avares en mots et sciences humaines en étalant trop ? Réponses statistiques à de vieux stéréotypes sur le discours scientifique", in: Neveu, Franck/Hriba, Linda/Prévost, Sophie/Steuckardt, Agnès (éds.): <i>Actes du Congrès Mondial de Linguistique française 2020</i>. Paris: EDP Sciences, 1-15.
