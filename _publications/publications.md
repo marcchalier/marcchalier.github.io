@@ -43,5 +43,11 @@ Comptes rendus
 
 **Comptes rendus**
 * <b>Chalier, Marc</b> (2020): Stahnke, Johanna (2017): "Konzeptionelle Nähe und sprachliche Routinisierung. Konversationelle Selbstreparaturen im Französischen", Berlin/Boston: De Gruyter, in: <i>Romanische Forschungen</i> 132.1, 93-98.
-* <b>Chalier, Marc<b> (2020): Reutner, Ursula (éd.) (2017): "Manuel des francophonies", Berlin/Boston: De Gruyter, in: <i>La Linguistique</i> 56.2, 170-176.
-* Chalier, Marc (2019): Canepari, Luciano (2017): "French Pronunciation & Accents. Geo-social Application of the Natural Phonetics & Tonetics Method" (Lincom Studies in Phonetics, 21), Munich: Lincom, in: <i>Zeitschrift für französische Sprache und Literatur</i>.
+* <b>Chalier, Marc</b> (2020): Reutner, Ursula (éd.) (2017): "Manuel des francophonies", Berlin/Boston: De Gruyter, in: <i>La Linguistique</i> 56.2, 170-176.
+* <b>Chalier, Marc</b> (2019): Canepari, Luciano (2017): "French Pronunciation & Accents. Geo-social Application of the Natural Phonetics & Tonetics Method" (Lincom Studies in Phonetics, 21), Munich: Lincom, in: <i>Zeitschrift für französische Sprache und Literatur</i>.
+
+**Corpus**
+Chalier, Marc (à paraître): "Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)", in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
+
+**Radio**
+(2022): Bayern 2, Interview dans le cadre de l’émission Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom (26/12/2022).
