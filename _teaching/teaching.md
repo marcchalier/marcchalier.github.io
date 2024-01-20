@@ -8,6 +8,7 @@ redirect_from:
 ---
 ---
 **Cours magistraux, séminaires et travaux pratiques**
+<br>
 **Linguistique**
 * Cours magistraux (Licence et Master)
   * La variation du français dans le monde (été 2018; Université de Vienne)
@@ -31,14 +32,17 @@ redirect_from:
   * Le français parlé en Amérique du Nord (hiver 2021/2022 ; en ligne ; Virtual Canadian Studies)
 * Travaux dirigés (Licence)
   * Sprachwissenschaftliche Übung Französisch ‘Linguistique du français : Travaux pratiques’ (été 2016, été 2017, hiver 2017/2018; Université de Vienne)
+<br>
 **Didactique**
 * Séminaires (Licence et Master)
   * Enseignement d’une discipline en L2 (été 2022; Université de pédagogie de Karlsruhe)
   * Didactique du FLE et hétérogénéité (hiver 2022/2023; Université de pédagogie de Karlsruhe)
+<br>
 **Enseignement du Français Langue Étrangère (FLE)**
 * Séminaires (Licence et Master)
   * Rédaction approfondissement / Stylistique (hiver 2022/2023; Université de pédagogie de Karlsruhe)
   * Thèmes choisis en littérature ou civilisation et culture / Civilisation thématique (hiver 2022/2023; Université de pédagogie de Karlsruhe)
+<br>
 **Méthodes**
 * Séminaire (Licence et Master)
   * Recherche / mémoire de fin d´études / Méthodologie d'enquête (hiver, 2022/2023, Université de pédagogie de Karlsruhe)
