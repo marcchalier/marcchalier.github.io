@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 ---
+**Enseignements actuels (Sorbonne Université)**
+* Sociolinguistique et psycholinguistique (cours magistral et travaux dirigés)
+* https://moodle-lettres.sorbonne-universite.fr/moodle-2023/pluginfile.php/15032/mod_folder/content/0/LICENCE/Brochure%20Licence%20Sciences%20du%20langage%202023-2024.pdf?forcedownload=1
+* Phonétique et phonologie (cours magistral et travaux dirigés)
+* Francophonie et variété des français (travaux dirigés) 
+
+---
 **Linguistique**
 * Cours magistraux (Licence et Master)
   * La variation du français dans le monde (été 2018; Université de Vienne)
