@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 **Thèse**
-<br><br><b>Chalier, Marc</b> (2021): <i>Les normes de prononciation du français : une étude perceptive panfrancophone</i>, Berlin/Boston : De Gruyter (Open Access : https://www.degruyter.com/document/doi/10.1515/9783110707540/html, publication soumise à une évaluation anonyme par les pairs)
+<br><br><b>Chalier, Marc</b> (2021): <i>Les normes de prononciation du français : une étude perceptive panfrancophone</i>, Berlin/Boston : De Gruyter (<a href="https://www.degruyter.com/document/doi/10.1515/9783110707540/html">Open Access</a>, publication soumise à une évaluation anonyme par les pairs)
 
 <center> <img src="https://studip.uni-passau.de/studip/sendfile.php?type=0&amp;file_id=2fb46abb9e8bde242bff96f3f5fd142f&amp;file_name=Les_normes_de_prononciation_du_francais_Chalier.jpg" alt="Les_normes_de_prononciation_du_francais_Chalier.jpg"> </center>
 
