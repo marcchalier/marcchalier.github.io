@@ -9,7 +9,7 @@ redirect_from:
 ---
 **Enseignements actuels <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/pluginfile.php/15032/mod_folder/content/0/LICENCE/Brochure%20Licence%20Sciences%20du%20langage%202023-2024.pdf?forcedownload=1">(Sorbonne Université)</a>**
 * <b>Sociolinguistique et psycholinguistique</b> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 1)
-  * <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/course/view.php?id=1750">"Moodle"</a>
+  * <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/course/view.php?id=1750">Moodle</a>
 * <b>Phonétique et phonologie</b> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 2)
   * Moodle (en construction)
   * DropSU (en construction)
