@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 ---
-**Cours magistraux, séminaires et travaux pratiques**
-<br>
 **Linguistique**
 * Cours magistraux (Licence et Master)
   * La variation du français dans le monde (été 2018; Université de Vienne)
