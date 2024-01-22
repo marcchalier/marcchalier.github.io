@@ -31,19 +31,16 @@ redirect_from:
 * Travaux dirigés (Licence)
   * Sprachwissenschaftliche Übung Französisch ‘Linguistique du français : Travaux pratiques’ (été 2016, été 2017, hiver 2017/2018; Université de Vienne)
 
----
 **Didactique**
 * Séminaires (Licence et Master)
   * Enseignement d’une discipline en L2 (été 2022; Université de pédagogie de Karlsruhe)
   * Didactique du FLE et hétérogénéité (hiver 2022/2023; Université de pédagogie de Karlsruhe)
 
----
 **Enseignement du Français Langue Étrangère (FLE)**
 * Séminaires (Licence et Master)
   * Rédaction approfondissement / Stylistique (hiver 2022/2023; Université de pédagogie de Karlsruhe)
   * Thèmes choisis en littérature ou civilisation et culture / Civilisation thématique (hiver 2022/2023; Université de pédagogie de Karlsruhe)
 
----
 **Méthodes**
 * Séminaire (Licence et Master)
   * Recherche / mémoire de fin d´études / Méthodologie d'enquête (hiver, 2022/2023, Université de pédagogie de Karlsruhe)
