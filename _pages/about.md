@@ -14,6 +14,7 @@ redirect_from:
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110628869-032/html">"Madagascar and Comoros"</a>, in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
 
 **Conférences**
+* 01/2024: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Université d'Innsbruck (en ligne) (19/01/2024).
 * 11/2023: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht", Conférence sur invitation, Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD).
 
 <center> <img src="images/Conférence_invitée_Chalier_Heidelberg_2023.jpg" /> </center>
