@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 ---
-**Enseignements actuels (Sorbonne Université)**
-* <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/pluginfile.php/15032/mod_folder/content/0/LICENCE/Brochure%20Licence%20Sciences%20du%20langage%202023-2024.pdf?forcedownload=1">"Sociolinguistique et psycholinguistique"</a> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 1)
+**Enseignements actuels <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/pluginfile.php/15032/mod_folder/content/0/LICENCE/Brochure%20Licence%20Sciences%20du%20langage%202023-2024.pdf?forcedownload=1">"(Sorbonne Université)"</a>**
+* <b>Sociolinguistique et psycholinguistique</b> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 1)
   * <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/course/view.php?id=1750">"Moodle"</a>
-* <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/pluginfile.php/15032/mod_folder/content/0/LICENCE/Brochure%20Licence%20Sciences%20du%20langage%202023-2024.pdf?forcedownload=1">"Phonétique et phonologie"</a> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 2)
+* <b>Phonétique et phonologie</b> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 2)
   * Moodle (en construction)
   * DropSU (en construction)
-* <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/pluginfile.php/15032/mod_folder/content/0/LICENCE/Brochure%20Licence%20Sciences%20du%20langage%202023-2024.pdf?forcedownload=1">"Francophonie et variété des français"</a> (travaux dirigés; 2023-2024: Licence 3, semestre 2)
+* <b>Francophonie et variété des français</b> (travaux dirigés; 2023-2024: Licence 3, semestre 2)
   * Moodle (en construction)
-  * DropSU (en construction) 
+  * DropSU (en construction)
 
 ---
 **Linguistique**
