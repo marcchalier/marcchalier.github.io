@@ -11,11 +11,10 @@ redirect_from:
 * <b>Sociolinguistique et psycholinguistique</b> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 1)
   * <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/course/view.php?id=1750">Moodle</a>
 * <b>Phonétique et phonologie</b> (cours magistral et travaux dirigés; 2023-2024: Licence 1, semestre 2)
-  * Moodle (en construction)
-  * DropSU (en construction)
+  * <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/course/view.php?id=3214">Moodle</a>
 * <b>Francophonie et variété des français</b> (travaux dirigés; 2023-2024: Licence 3, semestre 2)
-  * Moodle (en construction)
-  * DropSU (en construction)
+  * <a href="https://moodle-lettres.sorbonne-universite.fr/moodle-2023/course/view.php?id=3694">Moodle</a>
+  * <a href="https://dropsu.sorbonne-universite.fr/s/4SZmjGnCxxH5bDk">DropSU</a>
 
 ---
 **Linguistique**
