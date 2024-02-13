@@ -20,7 +20,7 @@ Comptes rendus
 
 ---
 **Éditions d’ouvrages**
-* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023). München: Akademische Verlagsgemeinschaft.
+* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
 
 ---
 **Articles dans des revues avec comité de lecture**
