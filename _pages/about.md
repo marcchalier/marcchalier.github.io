@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 **Publications**
-* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
+* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation):<i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110489033-008/html">"Entretiens, questionnaires et tests de perception"</a>, in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177.
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110628869-032/html">"Madagascar and Comoros"</a>, in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
