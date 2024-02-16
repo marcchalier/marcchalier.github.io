@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 ---
 **Thèse**
 <br><br><b>Chalier, Marc</b> (2021): <i>Les normes de prononciation du français : une étude perceptive panfrancophone</i>, Berlin/Boston : De Gruyter (<a href="https://www.degruyter.com/document/doi/10.1515/9783110707540/html">Open Access</a>, publication soumise à une évaluation anonyme par les pairs)
