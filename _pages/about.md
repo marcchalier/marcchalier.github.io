@@ -12,8 +12,8 @@ redirect_from:
 **Publications**
 
 * <b>Chalier, Marc</b> (à paraître): “Cartes mentales du français québécois”, in: Neveu, Franck/Prévost, Sophie/Steuckardt, Agnès/Bergounioux, Gabriel/Philippe, Gilles/Merminod, Gilles (éds.): Actes du Congrès Mondial de Linguistique française 2024. Paris: EDP Sciences.
-* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
+* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110489033-008/html">"Entretiens, questionnaires et tests de perception"</a>, in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177.
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110628869-032/html">"Madagascar and Comoros"</a>, in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
 
@@ -27,6 +27,10 @@ redirect_from:
 
 * 05/2023: "Linguistik im Fremdsprachenunterricht – (un)möglich?", Conférence sur invitation, Université de Gießen.
 * 04/2023: "Autonomisation des normes ‘périphériques’: le cas du français laurentien", Conférence sur invitation, Université d'Aix-Marseille.
+
+---
+**Organisation**
+* 09/2024 (avec Linda Bäumler & Elisabeth Heiszenberger):  Workshop <a href="https://llcd2024.sciencesconf.org/data/pages/WS_J.pdf">"Phonologie empirique"</a>, <a href="https://llcd2024.sciencesconf.org/">Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD)</a>, Sorbonne Université (09-11/09/2024).
 
 ---
 **Prix**
