@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 **Communications scientifiques (sur proposition)**
-1. 2024b: "Cartes mentales du français québécois", Congrès Mondial de Linguistique Française, Université de Lausanne (01/-05/07/2024).
+1. 2024b: "Cartes mentales des normes du français québécois", Congrès Mondial de Linguistique Française, Université de Lausanne (01/-05/07/2024).
 2. 2024a: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Innsbruck (en ligne) (19/01/2024).
 3. 2023a: "Les réalisations du /R/ en Algérie et en Côte d’Ivoire à la lumière du Corpus PFC", Colloque international – (Inter)Phonologie du Français Contemporain 2023, Paris (23-25/12/2023).
 4. 2022b: "Les prononciations des français parlés en Afrique dans une perspective comparative" (avec Ursula Reutner), 13e congrès des francoromanistes, Section 16: La langue française: variations, variétés, diversité, Vienne (21-23/09/2022).
