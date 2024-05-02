@@ -46,6 +46,7 @@ Comptes rendus
 
 ---
 **Articles dans des revues pour enseignants**
+* <b>Chalier, Marc</b> (à paraître): "Enseigner le français parlé en Suisse romande – pourquoi et comment ?", in: <i>Französisch heute</i>.
 * <b>Chalier, Marc</b> (2020): "Comment prononcer le français ? Le long débat autour de la norme à la lumière de la recherche actuelle", in: <i>Französisch heute</i> 51.1, 12-16.
 
 ---
