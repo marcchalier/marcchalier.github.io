@@ -20,6 +20,7 @@ redirect_from:
 
 ---
 **Conférences**
+* 09/2024: “Variation et codages inter-juges: le rôle de la variété native du codeur sur la qualité du codage à l’épreuve des données” (avec Linda Bäumler & Elisabeth Heiszenberger), Workshop "Phonologie empirique", Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD), Sorbonne Université (09-11/09/2024).
 * 07/2024: “Cartes mentales des normes du français québécois”, Congrès Mondial de Linguistique Française, Université de Lausanne (01/-05/07/2024).
 * 01/2024: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Université d'Innsbruck (en ligne) (19/01/2024).
 * 11/2023: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht", Conférence sur invitation, Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD).
