@@ -190,6 +190,9 @@ collections:
   organisation:
     output: true
     permalink: /:collection/:path/
+  administration:
+    output: true
+    permalink: /:administration/:path/
 
 
 # Defaults
