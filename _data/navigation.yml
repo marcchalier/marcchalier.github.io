@@ -14,3 +14,6 @@ main:
 
   - title: "Organisation"
     url: /organisation/
+
+  - title: "Administration"
+    url: /administration/
