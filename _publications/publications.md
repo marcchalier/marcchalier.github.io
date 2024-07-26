@@ -32,7 +32,7 @@ Comptes rendus
 
 ---
 **Chapitres d’ouvrages**
-* Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): "Frequency effects on French schwa. New insights from Parisian newscasters’ speech", in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
+* Pustka, Elissa/<b>Chalier, Marc</b> (2024): "Frequency effects on French schwa. New insights from Parisian newscasters’ speech", in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): "Entretiens, questionnaires et tests de perception", in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177.
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): "Madagascar and Comoros", in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
 * <b>Chalier, Marc</b> (2021): "Variation et pluralité des normes dans l’enseignement du français langue étrangère : une analyse de deux manuels scolaires allemands", in: Pustka, Elissa (éd.): La prononciation du français langue étrangère : perspectives linguistiques et didactiques. Tübingen: Narr, 365-402.
