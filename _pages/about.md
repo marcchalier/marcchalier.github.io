@@ -11,7 +11,7 @@ redirect_from:
 ---
 **Publications**
 
-* <b>Chalier, Marc</b> (à paraître): "Cartes mentales des normes du français québécois", in: Neveu, Franck/Prévost, Sophie/Steuckardt, Agnès/Bergounioux, Gabriel/Philippe, Gilles/Merminod, Gilles (éds.): Actes du Congrès Mondial de Linguistique française 2024. Paris: EDP Sciences.
+* <b>Chalier, Marc</b> (2024): <a href="https://www.shs-conferences.org/articles/shsconf/abs/2024/11/shsconf_cmlf2024_02002/shsconf_cmlf2024_02002.html">"Cartes mentales des normes du français québécois"</a>, in: Neveu, Franck/Prévost, Sophie/Steuckardt, Agnès/Bergounioux, Gabriel/Philippe, Gilles/Merminod, Gilles (éds.): Actes du Congrès Mondial de Linguistique française 2024. Paris: EDP Sciences.
 * <b>Chalier, Marc</b> (à paraître): "Enseigner le français parlé en Suisse romande – pourquoi et comment ?", in: <i>Französisch heute</i>.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
