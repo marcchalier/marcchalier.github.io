@@ -21,7 +21,7 @@ Comptes rendus
 
 ---
 **Éditions d’ouvrages**
-* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (en préparation): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
+* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
 
 ---
 **Articles dans des revues avec comité de lecture**
@@ -32,7 +32,7 @@ Comptes rendus
 
 ---
 **Chapitres d’ouvrages**
-* Pustka, Elissa/<b>Chalier, Marc</b> (2024): "Frequency effects on French schwa. New insights from Parisian newscasters’ speech", in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
+* Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): "Frequency effects on French schwa. New insights from Parisian newscasters’ speech", in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): "Entretiens, questionnaires et tests de perception", in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177.
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): "Madagascar and Comoros", in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
 * <b>Chalier, Marc</b> (2021): "Variation et pluralité des normes dans l’enseignement du français langue étrangère : une analyse de deux manuels scolaires allemands", in: Pustka, Elissa (éd.): La prononciation du français langue étrangère : perspectives linguistiques et didactiques. Tübingen: Narr, 365-402.
@@ -46,7 +46,7 @@ Comptes rendus
 
 ---
 **Articles dans des revues pour enseignants**
-* <b>Chalier, Marc</b> (à paraître): "Enseigner le français parlé en Suisse romande – pourquoi et comment ?", in: <i>Französisch heute</i>.
+* <b>Chalier, Marc</b> (2024): "Enseigner le français parlé en Suisse romande – pourquoi et comment ?", in: <i>Französisch heute</i> 55.4, 16-22.
 * <b>Chalier, Marc</b> (2020): "Comment prononcer le français ? Le long débat autour de la norme à la lumière de la recherche actuelle", in: <i>Französisch heute</i> 51.1, 12-16.
 
 ---
@@ -57,8 +57,9 @@ Comptes rendus
 
 ---
 **Corpus**
-* <b>Chalier, Marc</b> (à paraître): "Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)", in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
+* <b>Chalier, Marc</b> (2024): <a href="https://fdlq.recherche.usherbrooke.ca/corpus/corpus-lusage-presentateurs-journaux-televises-radiophoniques-au-quebec.html)">""<i>"Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)"</i>""</a>, in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
 
 ---
 **Radio**
+* (2024): Radio France Internationale (RFI), Les accents, richesse de la francophonie <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones">""<i>Les accents, richesse de la francophonie</i>""</a> (10/2024).
 * (2023 et 2022): Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""<i>Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom</i>""</a> (12/2022 et 12/2023).
