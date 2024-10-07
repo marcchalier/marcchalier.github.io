@@ -40,5 +40,6 @@ redirect_from:
 * 06/2023: <a href="https://iccs-ciec.ca/pierre-savard-awards/">Pierre Savard Award</a>, pour la monographie <a href="http://www.degruyter.com/document/isbn/9783110707649/html">“Les normes de prononciation du français. Une étude perceptive panfrancophone”</a>.
 
 ---
-**Intervention à la radio**
+**Interventions à la radio**
+* (2024): Radio France Internationale (RFI), Les accents, richesse de la francophonie <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones">""<i>Les accents, richesse de la francophonie</i>""</a> (10/2024).
 * 12/2023: Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom""</a>.
