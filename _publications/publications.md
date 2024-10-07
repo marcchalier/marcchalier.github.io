@@ -32,6 +32,7 @@ Comptes rendus
 
 ---
 **Chapitres d’ouvrages**
+* <b>Chalier, Marc</b> (à paraître): "Place de la variation géographique dans l’enseignement du français langue étrangère en Allemagne", in: Falkert, Anika/Racine, Isabelle (éds.): <i>Enseignement/Apprentissage de la variation en contextes pluriels</i>, Collection FrancophonieS, vol. 2, Paris: L’Harmattan.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): "Frequency effects on French schwa. New insights from Parisian newscasters’ speech", in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): "Entretiens, questionnaires et tests de perception", in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177.
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): "Madagascar and Comoros", in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
