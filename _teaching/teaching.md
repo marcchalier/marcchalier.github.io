@@ -17,7 +17,7 @@ redirect_from:
   * (disponible prochainement)
 
 **Enseignements actuels (2024/2025): Sorbonne Université Abu Dhabi**
-* Analyse linguistique et texte (séminaire, Licence Lettres)
+* <b>Analyse linguistique et texte</b> (séminaire, Licence Lettres)
 
 ---
 **Linguistique**
