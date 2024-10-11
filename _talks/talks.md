@@ -8,11 +8,8 @@ redirect_from:
 ---
 ---
 **Communications scientifiques (sur invitation)**
-1. (2025, en préparation): "<i>Au Vôtican ?!</i> – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
+1. (2025a, en préparation): "<i>Au Vôtican ?!</i> – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
 2. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD).
-
-<center> <img src="images/Conférence_invitée_Chalier_Heidelberg_2023.jpg" /> </center>
-
 3. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
 4. 2023b: "Angewandte Linguistik in der Schule – Schwerpunkt Aussprache" (invitation: Falk Seiler), Université Justus-Liebig de Gießen (12/05/2023).
 5. 2023a: "Autonomisation des normes 'périphériques': le cas du français laurentien" (invitation: Samuel Vernet), Université d’Aix-Marseille (07/04/2023).
