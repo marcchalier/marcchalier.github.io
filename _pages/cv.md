@@ -48,8 +48,10 @@ redirect_from:
 ---
 **Expertises**
 * Revues
-  * Depuis 2021: <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies">Journal of French Language Studies</a>
+  * Depuis 2024: <a href="https://shs.cairn.info/revue-travaux-de-linguistique?lang=fr">Travaux de Linguistique</a>
+  * Depuis 2024: <a href="https://www.wissner.com/verlagsprogramm/sach-und-fachbuecher/kanadistik/zeitschrift-fuer-kanadastudien">Journal of Canadian Studies (ZKS)</a>
   * Depuis 2023: <a href="https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique">Canadian Journal of Linguistics</a>
+  * Depuis 2021: <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies">Journal of French Language Studies</a>
 * Colloques et conférences
   * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française</a> (CMLF2024), Lausanne.
   * 2022: <a href="https://aps2022.sciencesconf.org/">L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</a> (APS22), Grenoble.
