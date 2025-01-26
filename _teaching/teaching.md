@@ -10,11 +10,8 @@ redirect_from:
 **Enseignements actuels (2024/2025, depuis 2023/2024): 
 <a href="https://moodle-lettres-24.sorbonne-universite.fr/pluginfile.php/13920/mod_folder/content/0/LICENCE/Brochure%20Licence%20SDL%202024-2025.pdf?forcedownload=1">Sorbonne Université</a>**
 * <b>Sociolinguistique et psycholinguistique</b> (cours magistral et travaux dirigés; 2024-2025: Licence 1, semestre 1)
-  * <a href="https://moodle-lettres-24.sorbonne-universite.fr/course/view.php?id=960">Moodle</a>
 * <b>Phonétique et phonologie</b> (cours magistral et travaux dirigés; 2024-2025: Licence 1, semestre 2)
-  * (disponible prochainement)
 * <b>Francophonie et variété des français</b> (travaux dirigés; 2024-2025: Licence 3, semestre 2)
-  * (disponible prochainement)
 
 **Enseignements actuels (2024/2025): Sorbonne Université Abu Dhabi**
 * <b>Analyse linguistique et texte</b> (séminaire, Licence Lettres)
