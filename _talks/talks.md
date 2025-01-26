@@ -10,18 +10,20 @@ redirect_from:
 **Communications scientifiques (sur invitation)**
 1. (2025b, en préparation): "<i>Au Vôtican ?!</i> – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
 2. (2025a, en préparation): "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
-3. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD).
-4. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
-5. 2023b: "Angewandte Linguistik in der Schule – Schwerpunkt Aussprache" (invitation: Falk Seiler), Université Justus-Liebig de Gießen (12/05/2023).
-6. 2023a: "Autonomisation des normes 'périphériques': le cas du français laurentien" (invitation: Samuel Vernet), Université d’Aix-Marseille (07/04/2023).
-7. 2022b: "Die Aussprachenormen des Französischen – Frankreich, Schweiz, Québec" (invitation: Sybille Große), Université de Heidelberg (11/11/2022).
-8. 2022a: "Les normes de prononciation – France, Suisse, Québec" (invitation: André Thibault), Sorbonne Université, Paris (04/10/2022).
-9. 2021a: "Le français langue plurielle: prononciation de référence et prononciations standards" (invitation: Felix Tacke), Université rhénane Frédéric-Guillaume de Bonn (en ligne) (16/12/2021).
+3. 2024a: "Retour d’expériences sur l’enseignement du FLE en Allemagne. Enseignement de deux aspects négligés : la prononciation et la variation" (invitation: Inès Sfar), Sorbonne Université, Paris (26/11/2024).
+4. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD).
+5. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
+6. 2023b: "Angewandte Linguistik in der Schule – Schwerpunkt Aussprache" (invitation: Falk Seiler), Université Justus-Liebig de Gießen (12/05/2023).
+7. 2023a: "Autonomisation des normes 'périphériques': le cas du français laurentien" (invitation: Samuel Vernet), Université d’Aix-Marseille (07/04/2023).
+8. 2022b: "Die Aussprachenormen des Französischen – Frankreich, Schweiz, Québec" (invitation: Sybille Große), Université de Heidelberg (11/11/2022).
+9. 2022a: "Les normes de prononciation – France, Suisse, Québec" (invitation: André Thibault), Sorbonne Université, Paris (04/10/2022).
+10. 2021a: "Le français langue plurielle: prononciation de référence et prononciations standards" (invitation: Felix Tacke), Université rhénane Frédéric-Guillaume de Bonn (en ligne) (16/12/2021).
 
 ---
 **Communications scientifiques (sur proposition)**
-1. 2024e: "Cartes mentales des variétés du français québécois" (avec Jeanne François), Colloque de l’Association for French Language Studies 2024 : Laissez les bon(s) temps rouler! Français et créoles entre héritage(s) et avenir(s), Tulane University, Nouvelle Orléans (25-27/09/2024).
-2. 2024d: "Politique linguistique émancipatoire dans le Mali postcolonial? Une analyse discursive des réactions sociales à la modification de la constitution" (avec Luana Sommer), 14e congrès des francoromanistes, Section 8: "Je suis right fier". Approches de la linguistique du discours pour l'analyse de la négociation discursive des normes linguistiques, Passau (25-27/09/2022).
+1. 2025a: "Les variantes du /R/ dans les variétés algériennes et ivoiriennes du français à la lumière de facteurs sociolinguistiques et phonologiques", XXXIe Congrès international de linguistique et de philologie romanes, Section 8 : La diatopia nelle lingue romanze e contatto linguistico, Lecce (30/06-05/07/2025).
+2. 2024e: "Cartes mentales des variétés du français québécois" (avec Jeanne François), Colloque de l’Association for French Language Studies 2024 : Laissez les bon(s) temps rouler! Français et créoles entre héritage(s) et avenir(s), Tulane University, Nouvelle Orléans (25-27/09/2024).
+3. 2024d: "Politique linguistique émancipatoire dans le Mali postcolonial? Une analyse discursive des réactions sociales à la modification de la constitution" (avec Luana Sommer), 14e congrès des francoromanistes, Section 8: "Je suis right fier". Approches de la linguistique du discours pour l'analyse de la négociation discursive des normes linguistiques, Passau (25-27/09/2022).
 4. 2024c: "Variation et codages inter-juges: le rôle de la variété native du codeur sur la qualité du codage à l’épreuve des données" (avec Linda Bäumler & Elisabeth Heiszenberger), Workshop "Phonologie empirique", Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD), Sorbonne Université (09-11/09/2024).
 5. 2024b: "Cartes mentales des normes du français québécois", Congrès Mondial de Linguistique Française, Université de Lausanne (01-05/07/2024).
 6. 2024a: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Innsbruck (en ligne) (19/01/2024).
