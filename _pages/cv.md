@@ -20,7 +20,7 @@ redirect_from:
 
 ---
 **Parcours**
-* 09/2023-aujourd'hui: Maître de conférences, UFR de Langue française, Sorbonne Université
+* 09/2023-aujourd'hui: Maître de conférences (Associate Professor), UFR de Langue française, Sorbonne Université
 * 05/2022-08/2023: Maître de conférences (Akademischer Mitarbeiter), Institut de plurilinguisme, Université de pédagogie de Karlsruhe
 * 05/2022-03/2024: Chargé de cours, Institut de plurilinguisme, Institut des langues étrangères, Université de pédagogie de Heidelberg
 * 11/2018-04/2022: Postdoctorant (Wissenschaftlicher Mitarbeiter), Chaire de linguistique des langues romanes, Université de Passau
@@ -30,7 +30,6 @@ redirect_from:
 
 ---
 **Formation**
-* 01/2021-aujourd'hui (en cours): Habilitation en linguistique romane, Université de Passau, Titre : "Commercial Onomastics in Romance Languages"
 * 02/2023: Qualification aux fonctions de Maître de conférences (section 7: Sciences du langage)
 * 09/2014-01/2020: Doctorat en linguistique des langues romanes, Université de Vienne, Thèse : <a href="http://www.degruyter.com/document/isbn/9783110707649/html">"Les normes de prononciation du français. Une étude perceptive panfrancophone"</a>, co-tutelle : Marie-Hélène Côté (Université de Lausanne), Elissa Pustka (Université de Vienne)
 * 10/2012-08/2014: Master (Master of Arts) en philologie romane, Université de Munich et Université Laval
@@ -56,6 +55,7 @@ redirect_from:
   * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française</a> (CMLF2024), Lausanne.
   * 2022: <a href="https://aps2022.sciencesconf.org/">L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</a> (APS22), Grenoble.
 * Ouvrages collectifs
+  * 2025: Dufter, Andreas & Zepp-Zwirner, Susanne (éds.): <a href="https://www.degruyter.com/document/doi/10.1515/9783111547619/html">La langue du peuple dans la littérature: le français populaire mis en texte, de l'âge classique à nos jours</a>. Berlin/Boston: De Gruyter.
   * 2022: Pustka, Elissa (éd.): <a href="https://www.narr.de/la-bande-dessin%C3%A9e-18486/">La bande dessinée : perspectives linguistiques et didactiques</a>, Tübingen: Narr.
 
 ---
