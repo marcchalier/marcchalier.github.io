@@ -47,6 +47,7 @@ redirect_from:
 ---
 **Expertises**
 * Revues
+  * Depuis 2025: <a href="https://www.erudit.org/fr/revues/minling/">Minorités linguistiques et société</a>
   * Depuis 2024: <a href="https://shs.cairn.info/revue-travaux-de-linguistique?lang=fr">Travaux de Linguistique</a>
   * Depuis 2024: <a href="https://www.wissner.com/verlagsprogramm/sach-und-fachbuecher/kanadistik/zeitschrift-fuer-kanadastudien">Journal of Canadian Studies (ZKS)</a>
   * Depuis 2023: <a href="https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique">Canadian Journal of Linguistics</a>
