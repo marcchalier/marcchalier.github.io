@@ -17,3 +17,6 @@ main:
 
   - title: "Administration"
     url: /administration/
+
+  - title: "Projets"
+    url: /projects/
