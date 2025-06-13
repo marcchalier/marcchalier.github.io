@@ -22,7 +22,7 @@ The project “Linguistic VARIeties and POLitical Boundaries in the French-speak
   * Do political borders influence the representations and perceptions of these boundaries?
   * Do idealized representations align with perceptions based on concrete auditory stimuli?  
 
-The methodology involves mental maps, phonetic-phonological analyses of language production in different communication situations, and perception experiments. The project aims to fill a gap in perceptual linguistics by systematically studying the impact of political borders on varietal boundaries, focusing on often overlooked francophone areas.
+The methodology involves mental maps, phonetic-phonological analyses of linguistic productions in different communication situations, and perception experiments. The project aims to fill a gap in perceptual linguistics by systematically studying the impact of political borders on varietal boundaries, focusing on often overlooked francophone areas.
 
 ---
 **Publications**
