@@ -9,6 +9,14 @@ redirect_from:
 ---
 
 ---
+**Projet**
+VARIPOL
+* Linguistic VARIeties and POLitical Boundaries in the French-speaking World
+* Projet Émergence – Alliance Sorbonne Université
+* Porteur: Marc CHALIER
+* Durée: 09/2025-08/2027
+
+---
 **Publications**
 
 * <b>Chalier, Marc</b> (à paraître): "Place de la variation géographique dans l’enseignement du français langue étrangère en Allemagne", in: Falkert, Anika/Racine, Isabelle (éds.): <i>Enseignement/Apprentissage de la variation en contextes pluriels</i>, Collection FrancophonieS, vol. 2, Paris: L’Harmattan.
@@ -21,26 +29,18 @@ redirect_from:
 
 ---
 **Conférences**
+09/2025: "Au Vôtican ?! – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
+* 07/2025: "Les variantes du /R/ dans les variétés algériennes et ivoiriennes du français à la lumière de facteurs sociolinguistiques et phonologiques", XXXIe Congrès international de linguistique et de philologie romanes, Section 8 : La diatopia nelle lingue romanze e contatto linguistico, Lecce (30/06-05/07/2025).
+* 04/2025: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
 * 09/2024: "Cartes mentales des variétés du français québécois" (avec Jeanne François), Colloque de l'Association for French Language Studies 2024 : Laissez les bon(s) temps rouler! Français et créoles entre héritage(s) et avenir(s), Tulane University, Nouvelle Orléans (25-27/09/2024).
 * 09/2024: "Variation et codages inter-juges: le rôle de la variété native du codeur sur la qualité du codage à l’épreuve des données" (avec Linda Bäumler & Elisabeth Heiszenberger), Workshop "Phonologie empirique", Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD), Sorbonne Université (09-11/09/2024).
 * 07/2024: "Cartes mentales des normes du français québécois", Congrès Mondial de Linguistique Française, Université de Lausanne (01/-05/07/2024).
 * 01/2024: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Université d'Innsbruck (en ligne) (19/01/2024).
-* 11/2023: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht", Conférence sur invitation, Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD).
-
-<center> <img src="images/Conférence_invitée_Chalier_Heidelberg_2023.jpg" /> </center>
-
-* 05/2023: "Linguistik im Fremdsprachenunterricht – (un)möglich?", Conférence sur invitation, Université de Gießen.
-* 04/2023: "Autonomisation des normes ‘périphériques’: le cas du français laurentien", Conférence sur invitation, Université d'Aix-Marseille.
 
 ---
 **Organisation**
 * 09/2024 (avec Linda Bäumler & Elisabeth Heiszenberger):  Workshop <a href="https://llcd2024.sciencesconf.org/data/pages/WS_J.pdf">"Phonologie empirique"</a>, <a href="https://llcd2024.sciencesconf.org/">Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD)</a>, Sorbonne Université (09-11/09/2024).
 
 ---
-**Prix**
-* 06/2023: <a href="https://iccs-ciec.ca/pierre-savard-awards/">Pierre Savard Award</a>, pour la monographie <a href="http://www.degruyter.com/document/isbn/9783110707649/html">“Les normes de prononciation du français. Une étude perceptive panfrancophone”</a>.
-
----
 **Interventions à la radio**
 * (2024): Radio France Internationale (RFI), Les accents, richesse de la francophonie <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones">""<i>Les accents, richesse de la francophonie</i>""</a> (10/2024).
-* 12/2023: Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom""</a>.
