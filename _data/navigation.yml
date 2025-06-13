@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Projets"
+    url: /projects/
+    
   - title: "Publications"
     url: /publications/
 
@@ -17,6 +20,3 @@ main:
 
   - title: "Administration"
     url: /administration/
-
-  - title: "Projets"
-    url: /projects/
