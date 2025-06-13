@@ -32,7 +32,7 @@ VARIPOL
 * 09/2025: "Au Vôtican ?! – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
 * 07/2025: "Les variantes du /R/ dans les variétés algériennes et ivoiriennes du français à la lumière de facteurs sociolinguistiques et phonologiques", XXXIe Congrès international de linguistique et de philologie romanes, Section 8 : La diatopia nelle lingue romanze e contatto linguistico, Lecce (30/06-05/07/2025).
 * 04/2025: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
-<center> <img src="images/ Affiche_FrancophoniesAmericaines2025.pdf" /> </center>
+<center> <img src="images/Affiche_FrancophoniesAmericaines2025.pdf" /> </center>
 * 09/2024: "Cartes mentales des variétés du français québécois" (avec Jeanne François), Colloque de l'Association for French Language Studies 2024 : Laissez les bon(s) temps rouler! Français et créoles entre héritage(s) et avenir(s), Tulane University, Nouvelle Orléans (25-27/09/2024).
 * 09/2024: "Variation et codages inter-juges: le rôle de la variété native du codeur sur la qualité du codage à l’épreuve des données" (avec Linda Bäumler & Elisabeth Heiszenberger), Workshop "Phonologie empirique", Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD), Sorbonne Université (09-11/09/2024).
 * 07/2024: "Cartes mentales des normes du français québécois", Congrès Mondial de Linguistique Française, Université de Lausanne (01/-05/07/2024).
