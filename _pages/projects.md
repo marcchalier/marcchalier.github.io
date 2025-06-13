@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-**Projets actuels**
+**Projet actuel**
 * <b>Linguistic VARIeties and POLitical Boundaries in the French-speaking World (VARIPOL)</b>
 * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
 * <b>Porteur</b>: Marc CHALIER
