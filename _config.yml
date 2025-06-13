@@ -193,7 +193,9 @@ collections:
   administration:
     output: true
     permalink: /:administration/:path/
-
+  projects:
+    output: true
+    permalink: /:projects/:path/
 
 # Defaults
 defaults:
