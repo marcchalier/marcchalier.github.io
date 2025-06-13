@@ -66,9 +66,11 @@ redirect_from:
 * 2024/2025: 4 mémoires de M2, 2 mémoires de M1
 * 2023/2024: 5 mémoires de M1
 
+---
 **Membre de comités d’évaluation de mémoires de recherche**
 * 2023: 2 mémoires en de recherche en M2 de Linguistique française et générale
 
+---
 **Participation à des comités de suivi de thèse**
 * 2023-aujourd'hui: ZHU, Zhengan: "Variations vocaliques du français dans le monde francophone : production et perception du français en Europe, au Canada, au Maghreb et en Afrique subsaharienne", thèse dirigée par Mathieu Avanzi et André Thibault
 * 2024-aujourd'hui: SHAN, Zhibin: "Enseignement/apprentissage de la variation diatopique du français en francophonie pour les apprenants chinois de FLE", thèse dirigée par André Thibault
