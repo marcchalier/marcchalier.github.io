@@ -60,3 +60,19 @@ redirect_from:
 * 2018: Die Frankophonie in Kanada : Sprachliche, kulturelle und literarische Aspekte. Materialien für den Fremdsprachenunterricht (avec Catherine Lemieux), Pädagogische Hochschule, Vienne.
 * 2017: Les accents francais – matériaux pour l’enseignement/Die französischen Akzente – Materialien für den Fremdsprachunterricht (avec Elissa Pustka et Luise Jansen), Pädagogische Hochschule, Vienne.
 * 2016: Welche Aussprache im Französischunterricht ? Standard – Plurizentrik – Variation (avec Elissa Pustka et Luise Jansen), Zentrum für LehrerInnenbildung, Université de Vienne.
+
+---
+**Direction d’étudiants en Master de Linguistique française et générale**
+* 2024/2025: 4 mémoires de M2, 2 mémoires de M1
+* 2023/2024: 5 mémoires de M1
+
+**Membre de comités d’évaluation de mémoires de recherche**
+* 2023: 2 mémoires en de recherche en M2 de Linguistique française et générale
+
+**Participation à des comités de suivi de thèse**
+* 2023-aujourd'hui: ZHU, Zhengan: "Variations vocaliques du français dans le monde francophone : production et perception du français en Europe, au Canada, au Maghreb et en Afrique subsaharienne", thèse dirigée par Mathieu Avanzi et André Thibault
+* 2024-aujourd'hui: SHAN, Zhibin: "Enseignement/apprentissage de la variation diatopique du français en francophonie pour les apprenants chinois de FLE", thèse dirigée par André Thibault
+* 2024-aujourd'hui: NIKOLOVA-STOUPAK, Iglika: "Production de versions abrégées de textes littéraires : une approche multilingue", thèse dirigée par Gaël Lejeune et Eva Schaeffer-Lacroix
+* 2024-aujourd'hui: HWANG, Sinae: "La place du français en Guinée et au Sénégal : étude sociolinguistique comparative des attitudes du public étudiant envers leurs langues", thèse dirigée par André Thibault
+* 2024-aujourd'hui: BUSVIAH Nidhish: "Contacts de langue à Maurice: expliquer la variation interlinguistique dans une perspective de sociolinguistique cognitive", thèse dirigée par André Thibault
+* 2024-aujourd'hui: FRANÇOIS, Jeanne: "La « virilisation » des pratiques langagières des femmes en périphérie urbaine en France aujourd’hui", thèse dirigée par Gilles Siouffi
