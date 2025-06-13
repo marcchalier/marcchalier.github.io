@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 ---
-**Enseignements actuels (2025/2026, depuis 2023/2024): Sorbonne Université**
-* <b>Espaces francophones</b> (cours magistral; 2025-2026; Master 2, semestre 1)
-* <b>Sociolinguistique et psycholinguistique</b> (cours magistral et travaux dirigés; 2025-2026: Licence 1, semestre 1)
-* <b>Phonétique et phonologie</b> (cours magistral et travaux dirigés; 2025-2026: Licence 1, semestre 2)
-* <b>Francophonie et variété des français</b> (travaux dirigés; 2025-2026: Licence 3, semestre 2)
+**Enseignements actuels (2025/2026): Sorbonne Université**
+* <b>Espaces francophones</b> (cours magistral; 2025-2026; Master 2, semestre 1) (depuis 2025-2026)
+* <b>Sociolinguistique et psycholinguistique</b> (cours magistral et travaux dirigés; 2025-2026: Licence 1, semestre 1) (depuis 2023-2024)
+* <b>Phonétique et phonologie</b> (cours magistral et travaux dirigés; 2025-2026: Licence 1, semestre 2) (depuis 2023-2024)
+* <b>Francophonie et variété des français</b> (travaux dirigés; 2025-2026: Licence 3, semestre 2) (depuis 2023-2024)
 
-**Enseignements actuels (2025/2026): Sorbonne Université Abu Dhabi**
-* <b>Analyse linguistique et texte</b> (séminaire, Licence Lettres)
+**Enseignements actuels (2025-2026): Sorbonne Université Abu Dhabi**
+* <b>Analyse linguistique et texte</b> (séminaire, Licence Lettres) (depuis 2024-2025)
 
 ---
 **Linguistique**
