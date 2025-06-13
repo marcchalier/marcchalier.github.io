@@ -11,7 +11,7 @@ redirect_from:
 1. (2025b, en préparation): "<i>Au Vôtican ?!</i> – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
 2. (2025a, en préparation): "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
 3. 2024a: "Retour d’expériences sur l’enseignement du FLE en Allemagne. Enseignement de deux aspects négligés : la prononciation et la variation" (invitation: Inès Sfar), Sorbonne Université, Paris (26/11/2024).
-4. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD) (programme: [voir l'image](images/programme_Heidelberg2023.jpg))
+4. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD) (programme: [voir l'image](images/Conférence_invitée_Chalier_Heidelberg_2023.jpg))
 5. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
 6. 2023b: "Angewandte Linguistik in der Schule – Schwerpunkt Aussprache" (invitation: Falk Seiler), Université Justus-Liebig de Gießen (12/05/2023).
 7. 2023a: "Autonomisation des normes 'périphériques': le cas du français laurentien" (invitation: Samuel Vernet), Université d’Aix-Marseille (07/04/2023).
