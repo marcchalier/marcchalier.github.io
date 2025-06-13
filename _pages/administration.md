@@ -8,7 +8,7 @@ author_profile: true
 ---
 **Sorbonne Université**
 * Depuis 06/2024:	Chargé de la coordination du tutorat de l’UFR de Langue française
-* Depuis 09/2024: Chargé de la coordination du tutorat <i>écri+</i> de la Faculté des Lettres
+* 09/2024-08/2025: Chargé de la coordination du tutorat <i>écri+</i> de la Faculté des Lettres
 
 **Université de Passau**
 * 04/2019-04/2022:	Coordinateur du programme de double diplôme entre l’Université de Passau et l’Universidad del Salvador (Buenos Aires, Argentine)
