@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 **VARIPOL**
-* <i>Linguistic VARIeties and POLitical Boundaries in the French-speaking World</i>
+* <b><i>Linguistic VARIeties and POLitical Boundaries in the French-speaking World</i></b>
 * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
 * <b>Porteur</b>: Marc CHALIER
 * <b>Durée</b>: 09/2025-08/2027
