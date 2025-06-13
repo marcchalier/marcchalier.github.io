@@ -14,7 +14,7 @@ redirect_from:
 * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
 * <b>Porteur</b>: Marc CHALIER
 * <b>Durée</b>: 09/2025-08/2027
-* <b><a href="_pages/projects.md"><b>Description</b></a>
+* <b><a href="_pages/projects.md"><b>Description</b></a>  
 
 ---
 **Publications**
