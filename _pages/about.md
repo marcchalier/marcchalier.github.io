@@ -11,7 +11,7 @@ redirect_from:
 ---
 **Projet**
 VARIPOL
-* Linguistic VARIeties and POLitical Boundaries in the French-speaking World
+* <b>VARIPOL</b> - <i>Linguistic VARIeties and POLitical Boundaries in the French-speaking World</i>
 * Projet Émergence – Alliance Sorbonne Université
 * Porteur: Marc CHALIER
 * Durée: 09/2025-08/2027
