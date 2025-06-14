@@ -13,7 +13,7 @@ author_profile: true
 * <b>Durée</b>: 09/2025-08/2027
 * <b>Description</b>:
 
-The project “Linguistic VARIeties and POLitical Boundaries in the French-speaking World” (VARIPOL) examines the influence of political borders on the perceptions and representations of French varieties in three border regions in Europe, Canada and Sub-Saharan Africa. It addresses three key research questions:
+The project "Linguistic VARIeties and POLitical Boundaries in the French-speaking World" (VARIPOL) examines the influence of political borders on the perceptions and representations of French varieties in three border regions in Europe, Canada and Sub-Saharan Africa. It addresses three key research questions:
 
   * Which varieties of French do speakers distinguish in their local linguistic space?
   * Do political borders influence the representations and perceptions of these boundaries?
@@ -24,6 +24,6 @@ The methodology involves mental maps, phonetic-phonological analyses of linguist
 ---
 **2022-2024**
 * <b>Questions de grammaire et de traduction dans les ITEMs Mathématiques du PISA</b>
-* <b>Financement</b>: INSPE de l’Académie de Montpellier, « Recherches dans le domaine de l’éducation et de la formation »té
+* <b>Financement</b>: INSPE de l’Académie de Montpellier, "Recherches dans le domaine de l’éducation et de la formation"
 * <b>Porteurs</b>: Jean-Jacques SALONE (Université de Mayotte) et Viviane DURAND-GUERRIER (Université de Montpellier)
 * <b>Partenaires</b>: Nathalie AUGER (Université Paul Valery, Montpellier 3), Marc CHALIER (Paris, Sorbonne Université), Aurélie CHESNAIS (Université de Montpellier), Sylvain FARGE (Université Lumière Lyon 2), Sylvie MÉRON-MINUTH (Pädagogische Hochschule Heidelberg), Eléda ROBO (Université de Montpellier), Jérémi SAUVAGE (Université Paul Valéry, Montpellier 3)
