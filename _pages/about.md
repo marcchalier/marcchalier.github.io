@@ -19,6 +19,9 @@ redirect_from:
 ---
 **Publications**
 
+* <b>Chalier, Marc</b> (à paraître): "Ce que les variétés subsahariennes du français nous apprennent sur la classification phonétique et phonologique des variantes du /R/", <i>Langue française</i>.
+* <b>Chalier, Marc</b>/Alleesaib, Muhsina (à paraître): "Palatales et palatalisations : /ɲ/ et l’affrication des plosives /t/ et /d/ en créole mauricien", <i>Études créoles</i>.
+* Sommer, Luana/<b>Chalier, Marc</b> (à paraître): "Attitudes face à la réforme de la politique linguistique au Mali. Analyse des discours sur X", <i>Circula</i>.
 * <b>Chalier, Marc</b> (à paraître): "Place de la variation géographique dans l’enseignement du français langue étrangère en Allemagne", in: Falkert, Anika/Racine, Isabelle (éds.): <i>Enseignement/Apprentissage de la variation en contextes pluriels</i>, Collection FrancophonieS, vol. 2, Paris: L’Harmattan.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
@@ -29,7 +32,6 @@ redirect_from:
 
 ---
 **Conférences**
-* 09/2025: "Au Vôtican ?! – Die Inszenierung des Québec-Französischen in Netflix-Produktionen" (invitation: Sita-Rose Boileau & Mara Papaccio), XXXIXe Congrès des Romanistes, Université de Constance (22-25/09/2025).
 * 07/2025: "Les variantes du /R/ dans les variétés algériennes et ivoiriennes du français à la lumière de facteurs sociolinguistiques et phonologiques", XXXIe Congrès international de linguistique et de philologie romanes, Section 8 : La diatopia nelle lingue romanze e contatto linguistico, Lecce (30/06-05/07/2025).
 * 04/2025: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
 <p align="center">
@@ -42,7 +44,8 @@ redirect_from:
 
 ---
 **Organisation**
-* 09/2024 (avec Linda Bäumler & Elisabeth Heiszenberger):  Workshop <a href="https://llcd2024.sciencesconf.org/data/pages/WS_J.pdf">"Phonologie empirique"</a>, <a href="https://llcd2024.sciencesconf.org/">Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD)</a>, Sorbonne Université (09-11/09/2024).
+* 11/2025 (avec Sylvain Detey): Journée d’étude "Le locuteur natif et la variation : pour, contre ou dans ?", Sorbonne Université (26/11/2025).
+* 09/2024 (avec Linda Bäumler & Elisabeth Heiszenberger):  Atelier <a href="https://llcd2024.sciencesconf.org/data/pages/WS_J.pdf">"Phonologie empirique"</a>, <a href="https://llcd2024.sciencesconf.org/">Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD)</a>, Sorbonne Université (09-11/09/2024).
 
 ---
 **Intervention à la radio**
