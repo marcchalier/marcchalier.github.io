@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 **Communications scientifiques (sur invitation)**
-1. (2025a): "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025) (<a href="/images/Affiche_FrancophoniesAmericaines2025.pdf">Affiche</a>).
+1. 2025a: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025) (<a href="/images/Affiche_FrancophoniesAmericaines2025.pdf">Affiche</a>).
 2. 2024a: "Retour d’expériences sur l’enseignement du FLE en Allemagne. Enseignement de deux aspects négligés : la prononciation et la variation" (invitation: Inès Sfar), Sorbonne Université, Paris (26/11/2024).
 3. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD) (02/11/2023) (<a href="/images/conference_invitee_chalier_heidelberg_2023.jpg">Affiche</a>).
 4. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
