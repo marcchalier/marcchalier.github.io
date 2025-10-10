@@ -53,7 +53,8 @@ redirect_from:
   * Depuis 2023: <a href="https://www.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique">Canadian Journal of Linguistics</a>
   * Depuis 2021: <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies">Journal of French Language Studies</a>
 * Colloques et conférences
-  * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française</a> (CMLF2024), Lausanne.
+  * 2026: <a href="https://cmlf2026.sciencesconf.org/">Congrès Mondial de Linguistique française 2026</a> (CMLF2026), Arras.
+  * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française 2024</a> (CMLF2024), Lausanne.
   * 2022: <a href="https://aps2022.sciencesconf.org/">L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</a> (APS22), Grenoble.
 * Ouvrages collectifs
   * 2025: Dufter, Andreas & Zepp-Zwirner, Susanne (éds.): <a href="https://www.degruyter.com/document/doi/10.1515/9783111547619/html">La langue du peuple dans la littérature: le français populaire mis en texte, de l'âge classique à nos jours</a>. Berlin/Boston: De Gruyter.
