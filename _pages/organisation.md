@@ -22,7 +22,8 @@ author_profile: true
 * 2022: <i>Conflits, débats et leurs arènes médiatiques dans les francophonies</i>, 13e congrès des Francoromanistes : Populaire! Populär? (avec Philipp Heidepeter et Ursula Reutner), 21-23/09/2020, Vienne.
 * 2016: <i>Nachwuchspanel, Jahrestagung der Gesellschaft für Kanada-Studien e.V. (GKS) : "Soziale Gerechtigkeit – Social Justice – La justice sociale"</i> (avec Josefine Biedermann, Susanna Gartler, Claudia Grill, Alexandra Hauke, Jessica Janßen et Nicole Perry), 12-14/02/2016, Grainau.
 
-**Atelier**
+**Ateliers**
+* 2025: Journée d’étude <i>Le locuteur natif et la variation : pour, contre ou dans ?</i> (avec Sylvain Detey), 26/11/2025, Paris.
 * 2015: <i>Workshop zur Perzeptionslinguistik</i> (avec Luise Jansen et Andrea Kleene), 24/10/2015, Vienne.
 
 **Excursion**
