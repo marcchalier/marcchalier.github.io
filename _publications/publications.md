@@ -69,7 +69,7 @@ Comptes rendus
 **Radio**
 * (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/la-croisee/episodes/1033960/mardi-16-decembre-2025"><i>La croisée</i></a> (16/12/2025).
 * (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/1031990/vendredi-12-decembre-2025"><i>Place publique</i></a> (12/12/2025).
-* (2024): Radio France Internationale (RFI), Les accents, richesse de la francophonie <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones">""<i>Les accents, richesse de la francophonie</i>""</a> (10/2024).
+* (2024): Radio France Internationale (RFI), <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones"><i>Les accents, richesse de la francophonie</i></a> (10/2024).
 * (2023 et 2022): Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""<i>Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom</i>""</a> (12/2022 et 12/2023).
 
 **Entretiens (presse écrite)**
