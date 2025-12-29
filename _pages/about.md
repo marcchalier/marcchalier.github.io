@@ -25,10 +25,6 @@ redirect_from:
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <a href="https://www.avm-verlag.de/detailview?no=L95477183"><i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i></a>. München: Akademische Verlagsgemeinschaft.
 * Sommer, Luana/<b>Chalier, Marc</b> (2025): <a href="https://circula.recherche.usherbrooke.ca/numeros-21-22/">"Attitudes face à la réforme de la politique linguistique au Mali. Analyse des discours sur X"</a>, <i>Circula: revue d’idéologies linguistiques – rivista di ideo logie linguistiche – revista de ideologías lingüísticas</i> 21-22, 222-238.
-* <b>Chalier, Marc</b> (2024): <a href="https://www.shs-conferences.org/articles/shsconf/abs/2024/11/shsconf_cmlf2024_02002/shsconf_cmlf2024_02002.html">"Cartes mentales des normes du français québécois"</a>, in: Neveu, Franck/Prévost, Sophie/Steuckardt, Agnès/Bergounioux, Gabriel/Philippe, Gilles/Merminod, Gilles (éds.): Actes du Congrès Mondial de Linguistique française 2024. Paris: EDP Sciences.
-* <b>Chalier, Marc</b> (2024): "Enseigner le français parlé en Suisse romande – pourquoi et comment ?", <i>Französisch heute</i> 55.4, 16-22.
-* Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110489033-008/html">"Entretiens, questionnaires et tests de perception"</a>, in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177.
-* Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): <a href="https://www.degruyter.com/document/doi/10.1515/9783110628869-032/html">"Madagascar and Comoros"</a>, in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
 
 ---
 **Conférences**
@@ -37,16 +33,21 @@ redirect_from:
 <p align="center">
   <img src="images/Affiche_FrancophoniesAmericaines2025_page-0001.jpg" width="50%" />
 </p>
-* 09/2024: "Cartes mentales des variétés du français québécois" (avec Jeanne François), Colloque de l'Association for French Language Studies 2024 : Laissez les bon(s) temps rouler! Français et créoles entre héritage(s) et avenir(s), Tulane University, Nouvelle Orléans (25-27/09/2024).
-* 09/2024: "Variation et codages inter-juges: le rôle de la variété native du codeur sur la qualité du codage à l’épreuve des données" (avec Linda Bäumler & Elisabeth Heiszenberger), Workshop "Phonologie empirique", Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD), Sorbonne Université (09-11/09/2024).
-* 07/2024: "Cartes mentales des normes du français québécois", Congrès Mondial de Linguistique Française, Université de Lausanne (01/-05/07/2024).
-* 01/2024: "Die geographische Verortung der Norm(en) des Québec-Französischen: eine mental maps-basierte Studie", Journée d’études "Québec und frankophones Kanada heute. Kulturelle, literarische, mediale und linguistische Perspektiven. L’extrême contemporain au Québec et au Canada francophone. Perspectives culturelles, littéraires, médiatiques et linguistiques", Université d'Innsbruck (en ligne) (19/01/2024).
 
 ---
 **Organisation**
-* 11/2025 (avec Sylvain Detey): Journée d’étude "Le locuteur natif et la variation : pour, contre ou dans ?", Sorbonne Université (26/11/2025).
-* 09/2024 (avec Linda Bäumler & Elisabeth Heiszenberger):  Atelier <a href="https://llcd2024.sciencesconf.org/data/pages/WS_J.pdf">"Phonologie empirique"</a>, <a href="https://llcd2024.sciencesconf.org/">Conférence Langues & Langage à la croisée des Disciplines 2024 (LLcD)</a>, Sorbonne Université (09-11/09/2024).
+* 11/2025 (avec Sylvain Detey): <a href="https://www.waseda.jp/fire/gsiccs/news/2025/12/12/9319/"><i>Journée d’étude "Le locuteur natif et la variation : pour, contre ou dans ?"</i></a>, Sorbonne Université (26/11/2025).
 
 ---
-**Intervention à la radio**
-* (2024): Radio France Internationale (RFI), Les accents, richesse de la francophonie <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones">""<i>Les accents, richesse de la francophonie</i>""</a> (10/2024).
+**Grand public**
+
+**Interventions à la radio**
+* (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/la-croisee/episodes/1033960/mardi-16-decembre-2025"><i>La croisée</i></a> (16/12/2025).
+* (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/1031990/vendredi-12-decembre-2025"><i>Place publique</i></a> (12/12/2025).
+
+**Entretien (presse écrite)**
+* (2025): <a href="https://www.letelegramme.fr/france/les-accents-regionaux-sont-ils-en-voie-de-disparition-6919940.php">"C’est une revendication, un marqueur identitaire » : les accents régionaux sont-ils en voie de disparition ?", <i>Le Télégramme</i>.
+
+**Articles de vulgarisation scientifique**
+* (2025b): <a href="https://theconversation.com/et-si-laccent-neutre-nexistait-pas-269987">"Et si l’accent « neutre » n’existait pas ?"</a>, <i>The Conversation (France)</i>.
+* (2025a): <a href="https://theconversation.com/levolution-de-laccent-de-bernard-derome-raconte-laffirmation-du-francais-quebecois-267600">"L'évolution de l'accent de Bernard Derome raconte l’affirmation du français québécois"</a>, <i>The Conversation (Canada)</i>.
