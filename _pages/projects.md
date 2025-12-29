@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-**Projet actuel**
+**Projet principal, 2025-2027**
 * <b>Linguistic VARIeties and POLitical Boundaries in the French-speaking World (VARIPOL)</b>
 * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
 * <b>Porteur</b>: Marc CHALIER
@@ -20,6 +20,14 @@ The project "Linguistic VARIeties and POLitical Boundaries in the French-speakin
   * Do idealized representations align with perceptions based on concrete auditory stimuli?  
 
 The methodology involves mental maps, phonetic-phonological analyses of linguistic productions in different communication situations, and perception experiments. The project aims to fill a gap in perceptual linguistics by systematically studying the impact of political borders on varietal boundaries, focusing on often overlooked francophone areas.
+
+---
+**Projets associés**
+**2024-2028**
+* <b>Native, non-native or artificial phonetic content for pronunciation education: representations and perception in the case of L2 French</b>
+* <b>Financement</b>: KAKEN, Grant-in-Aid for Scientific Research
+* <b>Porteur</b>: Sylvain DETEY (Waseda University)
+* <b>Partenaires</b>: Carmen AESCHBACHER (Waseda University), Lionel FONTAN (Archean LABS, Montauban), Marc CHALIER (Sorbonne University), Rubén PERÉZ-RAMÓN (Waseda University), Maxime LE COZ (Université de Toulouse), Julien EYCHENNE (Université de Sherbrooke), Kaori SUGIYAMA (Waseda University), Mariko KONDO (Waseda University), Yuji KAWAGUCHI (Waseda University)
 
 ---
 **2022-2024**
