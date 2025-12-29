@@ -62,7 +62,7 @@ Comptes rendus
 
 ---
 **Corpus**
-* <b>Chalier, Marc</b> (2024): <a href="https://fdlq.recherche.usherbrooke.ca/corpus/corpus-lusage-presentateurs-journaux-televises-radiophoniques-au-quebec.html)">""<i>"Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)"</i>""</a>, in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
+* <b>Chalier, Marc</b> (2024): <a href="https://fdlq.recherche.usherbrooke.ca/corpus/corpus-lusage-presentateurs-journaux-televises-radiophoniques-au-quebec.html)"><i>Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)</i></a>, in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
 
 ---
 **Grand public**
