@@ -47,7 +47,7 @@ redirect_from:
 * (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/1031990/vendredi-12-decembre-2025"><i>Place publique</i></a> (12/12/2025).
 
 **Entretien (presse écrite)**
-* (2025): <a href="https://www.letelegramme.fr/france/les-accents-regionaux-sont-ils-en-voie-de-disparition-6919940.php">"C’est une revendication, un marqueur identitaire » : les accents régionaux sont-ils en voie de disparition ?", <i>Le Télégramme</i>.
+* (2025): <a href="https://www.letelegramme.fr/france/les-accents-regionaux-sont-ils-en-voie-de-disparition-6919940.php">"C’est une revendication, un marqueur identitaire » : les accents régionaux sont-ils en voie de disparition ?"</a>, <i>Le Télégramme</i>.
 
 **Articles de vulgarisation scientifique**
 * (2025b): <a href="https://theconversation.com/et-si-laccent-neutre-nexistait-pas-269987">"Et si l’accent « neutre » n’existait pas ?"</a>, <i>The Conversation (France)</i>.
