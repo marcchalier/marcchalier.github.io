@@ -22,13 +22,13 @@ Comptes rendus
 
 ---
 **Éditions d’ouvrages**
-* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i>. München: Akademische Verlagsgemeinschaft.
+* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <a href="https://www.avm-verlag.de/detailview?no=L95477183"><i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i></a>. München: Akademische Verlagsgemeinschaft.
 
 ---
 **Articles dans des revues avec comité de lecture**
 * <b>Chalier, Marc</b> (à paraître): "Ce que les variétés subsahariennes du français nous apprennent sur la classification phonétique et phonologique des variantes du /R/", <i>Langue française</i>.
 * <b>Chalier, Marc</b>/Alleesaib, Muhsina (à paraître): "Palatales et palatalisations : /ɲ/ et l’affrication des plosives /t/ et /d/ en créole mauricien", <i>Études créoles</i>.
-* Sommer, Luana/<b>Chalier, Marc</b> (à paraître): "Attitudes face à la réforme de la politique linguistique au Mali. Analyse des discours sur X", <i>Circula</i>.
+* Sommer, Luana/<b>Chalier, Marc</b> (2025): "Attitudes face à la réforme de la politique linguistique au Mali. Analyse des discours sur X", <i>Circula: revue d’idéologies linguistiques – rivista di ideo logie linguistiche – revista de ideologías lingüísticas</i> 21-22, 222-238.
 * <b>Chalier, Marc</b> (2019): "La norme de prononciation québécoise en changement (1970-2008) ? L’affrication de /t/ et /d/ et l’antériorisation de /ɑ̃/ chez les présentateurs des journaux télévisés de Radio-Canada", <i>Revue Canadienne de Linguistique/Canadian Journal of Linguistics</i> 64.3, 407-433.
 * Pustka, Elissa/Bellonie, Jean-David/<b>Chalier, Marc</b>/Jansen, Luise (2019): "C’est toujours l’autre qui a un accent : le prestige méconnu des accents du Sud, des Antilles et du Québec", <i>Glottopol</i> 31, 27-52.
 * <b>Chalier, Marc</b> (2018): "Quelle norme de prononciation au Québec ? Attitudes, représentations et perceptions", <i>Langage et société</i> 163.1, 121-144.
@@ -65,6 +65,16 @@ Comptes rendus
 * <b>Chalier, Marc</b> (2024): <a href="https://fdlq.recherche.usherbrooke.ca/corpus/corpus-lusage-presentateurs-journaux-televises-radiophoniques-au-quebec.html)">""<i>"Corpus de l’usage de présentateurs de journaux télévisés et radiophoniques au Québec (Radio-Canada)"</i>""</a>, in: <i>Fonds de données linguistiques du Québec</i>, Université de Sherbrooke.
 
 ---
+**Grand public**
 **Radio**
+* (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/la-croisee/episodes/1033960/mardi-16-decembre-2025"><i>La croisée</i></a> (16/12/2025).
+* (2025):  Radio-Canada, Interview dans le cadre de l'émission <a href="https://ici.radio-canada.ca/ohdio/premiere/emissions/place-publique/episodes/1031990/vendredi-12-decembre-2025"><i>Place publique</i></a> (12/12/2025).
 * (2024): Radio France Internationale (RFI), Les accents, richesse de la francophonie <a href="https://www.rfi.fr/fr/culture/20241004-marc-chalier-linguiste-il-y-a-autant-d-accents-que-de-locuteurs-francophones">""<i>Les accents, richesse de la francophonie</i>""</a> (10/2024).
 * (2023 et 2022): Bayern 2, Interview dans le cadre de l’émission <a href="https://www.br.de/radio/bayern2/programmkalender/sendung-3949874.html">""<i>Fernweh. Montreal-Magazin. Am Sankt-Lorenz-Strom</i>""</a> (12/2022 et 12/2023).
+
+**Entretiens (presse écrite)**
+* (2025): <a href="https://www.letelegramme.fr/france/les-accents-regionaux-sont-ils-en-voie-de-disparition-6919940.php">"C’est une revendication, un marqueur identitaire » : les accents régionaux sont-ils en voie de disparition ?", <i>Le Télégramme</i>.
+
+**Articles de vulgarisation scientifique**
+* (2025b): <a href="https://theconversation.com/et-si-laccent-neutre-nexistait-pas-269987">"Et si l’accent « neutre » n’existait pas ?"</a>, <i>The Conversation (France)</i>.
+* (2025a): <a href="https://theconversation.com/levolution-de-laccent-de-bernard-derome-raconte-laffirmation-du-francais-quebecois-267600">"L'évolution de l'accent de Bernard Derome raconte l’affirmation du français québécois"</a>, <i>The Conversation (Canada)</i>.
