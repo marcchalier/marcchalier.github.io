@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-**Projet principal**
+**Projet principal (porteur)**
 * <b>2025-2027</b>
 * <b>Linguistic VARIeties and POLitical Boundaries in the French-speaking World (VARIPOL)</b>
 * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
@@ -23,7 +23,7 @@ The project "Linguistic VARIeties and POLitical Boundaries in the French-speakin
 The methodology involves mental maps, phonetic-phonological analyses of linguistic productions in different communication situations, and perception experiments. The project aims to fill a gap in perceptual linguistics by systematically studying the impact of political borders on varietal boundaries, focusing on often overlooked francophone areas.
 
 ---
-**Projets associés**
+**Projet (collaborateur)**
 * <b>2024-2028</b>
 * <b>Native, non-native or artificial phonetic content for pronunciation education: representations and perception in the case of L2 French</b>
 * <b>Financement</b>: KAKEN, Grant-in-Aid for Scientific Research
@@ -31,6 +31,7 @@ The methodology involves mental maps, phonetic-phonological analyses of linguist
 * <b>Partenaires</b>: Carmen AESCHBACHER (Waseda University), Lionel FONTAN (Archean LABS, Montauban), Marc CHALIER (Sorbonne University), Rubén PERÉZ-RAMÓN (Waseda University), Maxime LE COZ (Université de Toulouse), Julien EYCHENNE (Université de Sherbrooke), Kaori SUGIYAMA (Waseda University), Mariko KONDO (Waseda University), Yuji KAWAGUCHI (Waseda University)
 
 ---
+**Projet (collaborateur)**
 * <b>2022-2024</b>
 * <b>Questions de grammaire et de traduction dans les ITEMs Mathématiques du PISA</b>
 * <b>Financement</b>: INSPE de l’Académie de Montpellier, "Recherches dans le domaine de l’éducation et de la formation"
