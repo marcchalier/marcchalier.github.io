@@ -7,6 +7,7 @@ author_profile: true
 
 ---
 **Sorbonne Université**
+* 01/2026-12/2026: Président du jury du DELF/DALF pour le SELFEE (Centre d'examen FLE) de Sorbonne Université
 * Depuis 06/2024:	Chargé de la coordination du tutorat de l’UFR de Langue française
 * 09/2024-08/2025: Chargé de la coordination du tutorat <i>écri+</i> de la Faculté des Lettres
 
