@@ -27,7 +27,8 @@ Comptes rendus
 ---
 **Articles dans des revues avec comité de lecture**
 * <b>Chalier, Marc</b> (à paraître): "Ce que les variétés subsahariennes du français nous apprennent sur la classification phonétique et phonologique des variantes du /R/", <i>Langue française</i>.
-* <b>Chalier, Marc</b>/Alleesaib, Muhsina (à paraître): "Palatales et palatalisations : /ɲ/ et l’affrication des plosives /t/ et /d/ en créole mauricien", <i>Études créoles</i>.
+* <b>Chalier, Marc</b> (à paraître): "Aperçu historique et état actuel de la recherche en phonétique et en phonologie", <i>Le français moderne</i>.
+* <b>Chalier, Marc</b>/Alleesaib, Muhsina (2025): "Palatales et palatalisations : /ɲ/ et l’affrication des plosives /t/ et /d/ en créole mauricien", <i>Études créoles</i> 42.1-2, 1-21.
 * Sommer, Luana/<b>Chalier, Marc</b> (2025): "Attitudes face à la réforme de la politique linguistique au Mali. Analyse des discours sur X", <i>Circula: revue d’idéologies linguistiques – rivista di ideo logie linguistiche – revista de ideologías lingüísticas</i> 21-22, 222-238.
 * <b>Chalier, Marc</b> (2019): "La norme de prononciation québécoise en changement (1970-2008) ? L’affrication de /t/ et /d/ et l’antériorisation de /ɑ̃/ chez les présentateurs des journaux télévisés de Radio-Canada", <i>Revue Canadienne de Linguistique/Canadian Journal of Linguistics</i> 64.3, 407-433.
 * Pustka, Elissa/Bellonie, Jean-David/<b>Chalier, Marc</b>/Jansen, Luise (2019): "C’est toujours l’autre qui a un accent : le prestige méconnu des accents du Sud, des Antilles et du Québec", <i>Glottopol</i> 31, 27-52.
@@ -37,6 +38,7 @@ Comptes rendus
 ---
 **Chapitres d’ouvrages**
 * <b>Chalier, Marc</b> (à paraître): "Place de la variation géographique dans l’enseignement du français langue étrangère en Allemagne", in: Falkert, Anika/Racine, Isabelle (éds.): <i>Enseignement/Apprentissage de la variation en contextes pluriels</i>, Collection FrancophonieS, vol. 2, Paris: L’Harmattan. (avec comité de lecture)
+* <b>Chalier, Marc</b>/Meisnitzer, Benjamin (à paraître): "Norms and Pluricentrics"</a>, in: Pustka, Elissa/Reimann, Daniel (éds.): <i>Manual of Pedagogical Linguistics</i>, Berlin: De Gruyter. (avec comité de lecture)
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): "Frequency effects on French schwa. New insights from Parisian newscasters’ speech", in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press. (avec comité de lecture)
 * Pustka, Elissa/<b>Chalier, Marc</b>/Jansen, Luise (2024): "Entretiens, questionnaires et tests de perception", in: Becker, Lidia/Herling, Sandra/Wochele, Holger (éds.): <i>Manuel de linguistique populaire</i>. Berlin: De Gruyter, 157–177. (avec comité de lecture)
 * Reutner, Ursula/Heidepeter, Philipp/<b>Chalier, Marc</b> (2024): "Madagascar and Comoros", in: Reutner, Ursula (éd.): <i>Manual of Romance Languages in Africa</i>. Berlin: de Gruyter, 717–752.
