@@ -58,7 +58,8 @@ redirect_from:
   * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française 2024</a> (CMLF2024), Lausanne.
   * 2022: <a href="https://aps2022.sciencesconf.org/">L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</a> (APS22), Grenoble.
 * Ouvrages collectifs
-  * 2025: Dufter, Andreas & Zepp-Zwirner, Susanne (éds.): <a href="https://www.degruyter.com/document/doi/10.1515/9783111547619/html">La langue du peuple dans la littérature: le français populaire mis en texte, de l'âge classique à nos jours</a>. Berlin/Boston: De Gruyter.
+  * 2025: Dufter, Andreas/Zepp-Zwirner, Susanne (éds.): <a href="https://www.degruyter.com/document/doi/10.1515/9783111547619/html">La langue du peuple dans la littérature: le français populaire mis en texte, de l'âge classique à nos jours</a>. Berlin/Boston: De Gruyter.
+  * 2024: Bartl, Tamara/Bäumler, Linda/Heiszenberger, Elisabeth/ Wais, Tatjana/Weiland, Verena (éds.): <a href="https://www.avm-verlag.de/detailview?no=L95477181">Romania Diversa. Potentiale und Herausforderungen. Beiträge zum 37. Forum Junge Romanistik in Wien (11.-13. April 2022)</a>, Munich: Akademische Verlagsgemeinschaft.
   * 2022: Pustka, Elissa (éd.): <a href="https://www.narr.de/la-bande-dessin%C3%A9e-18486/">La bande dessinée : perspectives linguistiques et didactiques</a>, Tübingen: Narr.
 
 ---
