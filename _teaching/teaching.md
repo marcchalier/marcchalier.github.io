@@ -16,7 +16,7 @@ redirect_from:
 **Enseignements dispensés pour Sorbonne Université Abu Dhabi**
 * <b>Analyse linguistique et texte</b> (séminaire, Licence Lettres) (2024-2025)
 
-**Enseignements dispensés pour l'Institut franco-chinois de l'Université de Renmin de Chine**
+**Enseignements dispensés pour l'Institut franco-chinois de l'Université Renmin de Chine**
 * <b>Sociolinguistique et méthodologie de recherche</b> (séminaire) (2025-2026)
 
 ---
