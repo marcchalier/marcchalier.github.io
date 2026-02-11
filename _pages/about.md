@@ -20,7 +20,7 @@ redirect_from:
 **Publications**
 
 * <b>Chalier, Marc</b> (à paraître): "Ce que les variétés subsahariennes du français nous apprennent sur la classification phonétique et phonologique des variantes du /R/", <i>Langue française</i>.
-* <b>Chalier, Marc</b> (à paraître): "Aperçu historique et état actuel de la recherche en phonétique et en phonologi", <i>Le français moderne</i>.
+* <b>Chalier, Marc</b> (à paraître): "Aperçu historique et état actuel de la recherche en phonétique et en phonologie", <i>Le français moderne</i>.
 * <b>Chalier, Marc</b> (à paraître): "Place de la variation géographique dans l’enseignement du français langue étrangère en Allemagne", in: Falkert, Anika/Racine, Isabelle (éds.): <i>Enseignement/Apprentissage de la variation en contextes pluriels</i>, Collection FrancophonieS, vol. 2, Paris: L’Harmattan.
 * <b>Chalier, Marc</b>/Meisnitzer, Benjamin (à paraître): <a href="https://www.degruyterbrill.com/document/isbn/9783111206752/html?srsltid=AfmBOoomt3njYm0hTxeLY8komZ_iI1o__xtfkWbycAeEf5VX9-tHe2mr">"Norms and Pluricentrics"</a>, in: Pustka, Elissa/Reimann, Daniel (éds.): <i>Manual of Pedagogical Linguistics</i>, Berlin: de Gruyter.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
