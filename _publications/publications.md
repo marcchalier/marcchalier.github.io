@@ -22,7 +22,7 @@ Comptes rendus
 
 ---
 **Éditions d’ouvrages**
-* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <a href="https://www.avm-verlag.de/detailview?no=L95477183"><i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i></a>. München: Akademische Verlagsgemeinschaft.
+* <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (à paraître): <a href="https://www.avm-verlag.de/detailview?no=L95477183"><i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i></a>. Munich: Akademische Verlagsgemeinschaft.
 
 ---
 **Articles dans des revues avec comité de lecture**
