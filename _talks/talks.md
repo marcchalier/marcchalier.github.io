@@ -8,15 +8,16 @@ redirect_from:
 ---
 ---
 **Communications scientifiques (sur invitation)**
-1. 2025a: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025) (<a href="/images/Affiche_FrancophoniesAmericaines2025.pdf">Affiche</a>).
-2. 2024a: "Retour d’expériences sur l’enseignement du FLE en Allemagne. Enseignement de deux aspects négligés : la prononciation et la variation" (invitation: Inès Sfar), Sorbonne Université, Paris (26/11/2024).
-3. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD) (02/11/2023) (<a href="/images/conference_invitee_chalier_heidelberg_2023.jpg">Affiche</a>).
-4. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
-5. 2023b: "Angewandte Linguistik in der Schule – Schwerpunkt Aussprache" (invitation: Falk Seiler), Université Justus-Liebig de Gießen (12/05/2023).
-6. 2023a: "Autonomisation des normes 'périphériques': le cas du français laurentien" (invitation: Samuel Vernet), Université d’Aix-Marseille (07/04/2023).
-7. 2022b: "Die Aussprachenormen des Französischen – Frankreich, Schweiz, Québec" (invitation: Sybille Große), Université de Heidelberg (11/11/2022).
-8. 2022a: "Les normes de prononciation – France, Suisse, Québec" (invitation: André Thibault), Sorbonne Université, Paris (04/10/2022).
-9. 2021a: "Le français langue plurielle: prononciation de référence et prononciations standards" (invitation: Felix Tacke), Université rhénane Frédéric-Guillaume de Bonn (en ligne) (16/12/2021).
+1. 2026a: "Zum Einfluss politischer Grenzen auf die Repräsentationen und Perzeptionen des Varietätenraums in der Frankophonie: Erste Ergebnisse aus dem Projekt VARIPOL" (invitation: Benjamin Meisnitzer), Université de Leipzig, Leipzig (06/07/2026).
+2. 2025a: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025) (<a href="/images/Affiche_FrancophoniesAmericaines2025.pdf">Affiche</a>).
+3. 2024a: "Retour d’expériences sur l’enseignement du FLE en Allemagne. Enseignement de deux aspects négligés : la prononciation et la variation" (invitation: Inès Sfar), Sorbonne Université, Paris (26/11/2024).
+4. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD) (02/11/2023) (<a href="/images/conference_invitee_chalier_heidelberg_2023.jpg">Affiche</a>).
+5. 2023c: "Le corpus du programme d’(Inter)Phonologie du français contemporain (I-PFC). Données primaires structurées sur les usages et normes du français oral et ressources didactiques" (invitation: André Thibault), Sorbonne Université, Paris (24/10/2023).
+6. 2023b: "Angewandte Linguistik in der Schule – Schwerpunkt Aussprache" (invitation: Falk Seiler), Université Justus-Liebig de Gießen (12/05/2023).
+7. 2023a: "Autonomisation des normes 'périphériques': le cas du français laurentien" (invitation: Samuel Vernet), Université d’Aix-Marseille (07/04/2023).
+8. 2022b: "Die Aussprachenormen des Französischen – Frankreich, Schweiz, Québec" (invitation: Sybille Große), Université de Heidelberg (11/11/2022).
+9. 2022a: "Les normes de prononciation – France, Suisse, Québec" (invitation: André Thibault), Sorbonne Université, Paris (04/10/2022).
+10. 2021a: "Le français langue plurielle: prononciation de référence et prononciations standards" (invitation: Felix Tacke), Université rhénane Frédéric-Guillaume de Bonn (en ligne) (16/12/2021).
 
 ---
 **Communications scientifiques (sur proposition)**
