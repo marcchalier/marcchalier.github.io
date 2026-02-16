@@ -20,7 +20,7 @@ redirect_from:
 
 ---
 **Parcours**
-* 09/2023-aujourd'hui: Maître de conférences (Associate Professor), UFR de Langue française, Sorbonne Université
+* 09/2023-aujourd'hui: Maître de conférences (Associate Professor, tenured), UFR de Langue française, Sorbonne Université
 * 05/2022-08/2023: Maître de conférences (Akademischer Mitarbeiter), Institut de plurilinguisme, Université de pédagogie de Karlsruhe
 * 05/2022-03/2024: Chargé de cours, Institut de plurilinguisme, Institut des langues étrangères, Université de pédagogie de Heidelberg
 * 11/2018-04/2022: Postdoctorant (Wissenschaftlicher Mitarbeiter), Chaire de linguistique des langues romanes, Université de Passau
