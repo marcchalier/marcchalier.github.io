@@ -31,8 +31,9 @@ redirect_from:
 
 ---
 **Conférences**
+* 07/2026: Conférence invitée "Zum Einfluss politischer Grenzen auf die Repräsentationen und Perzeptionen des Varietätenraums in der Frankophonie: Erste Ergebnisse aus dem Projekt VARIPOL" (invitation: Benjamin Meisnitzer), Université de Leipzig, Leipzig (06/07/2026).
 * 07/2025: "Les variantes du /R/ dans les variétés algériennes et ivoiriennes du français à la lumière de facteurs sociolinguistiques et phonologiques", XXXIe Congrès international de linguistique et de philologie romanes, Section 8 : La diatopia nelle lingue romanze e contatto linguistico, Lecce (30/06-05/07/2025).
-* 04/2025: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
+* 04/2025: Conférence invitée "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
 <p align="center">
   <img src="images/Affiche_FrancophoniesAmericaines2025_page-0001.jpg" width="50%" />
 </p>
