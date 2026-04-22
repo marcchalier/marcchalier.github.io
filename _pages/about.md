@@ -9,11 +9,17 @@ redirect_from:
 ---
 
 ---
-**Projet**
+**Projets**
 * <b>VARIPOL</b> - <i>Linguistic VARIeties and POLitical Boundaries in the French-speaking World</i>
-* <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
+  * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
+  * <b>Porteur</b>: Marc CHALIER
+  * <b>Durée</b>: 09/2025-08/2027
+  * <b><a href="/projects/"><b>Description</b></a>
+
+* <b><i>Le français et son patrimoine métalinguistique</i></b>
+* <b>Financement</b>: SPHINX, programme 11 « Restauration/préservation d'expertise/visibilisation des marges/revitalisation », axe 4 « Cartographies des variations du patrimoine linguistique et métalinguistique »
 * <b>Porteur</b>: Marc CHALIER
-* <b>Durée</b>: 09/2025-08/2027
+* <b>Durée</b>: 2026-2030
 * <b><a href="/projects/"><b>Description</b></a>  
 
 ---
