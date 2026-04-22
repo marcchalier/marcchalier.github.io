@@ -54,8 +54,11 @@ redirect_from:
   * Depuis 2021: <a href="https://www.cambridge.org/core/journals/journal-of-french-language-studies">Journal of French Language Studies</a>
 * Colloques et conférences
   * 2026: <a href="https://www.fabula.org/actualites/132534/les-langues-autres-pour-enseigner-le-francais-un-detour-salutaire.html">Colloque <i>Les langues 'autres' pour enseigner le français : un détour salutaire ?</i></a>, Paris.
-  * 2026: <a href="https://cmlf2026.sciencesconf.org/">Congrès Mondial de Linguistique française 2026</a> (CMLF2026), Arras.
-  * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française 2024</a> (CMLF2024), Lausanne.
+  * 2026: <a href="https://llcd2026.sciencesconf.org">Langues & Langage à la croisée des Discipline</a> (LLcD 2026), Aix-en-Provence.
+  * 2026: <a href="https://cmlf2026.sciencesconf.org/">Congrès Mondial de Linguistique française 2026</a> (CMLF 2026), Arras.
+  * 2025: <a href="https://llcd2025.sciencesconf.org">Langues & Langage à la croisée des Discipline</a> (LLcD 2025), Lille.
+  * 2024: <a href="https://llcd2024.sciencesconf.org">Langues & Langage à la croisée des Discipline</a> (LLcD 2024), Paris.
+  * 2024: <a href="https://cmlf2024.sciencesconf.org/">Congrès Mondial de Linguistique française 2024</a> (CMLF 2024), Lausanne.
   * 2022: <a href="https://aps2022.sciencesconf.org/">L’avoir, le garder, le perdre, le prendre – Accent : perspectives sociolinguistiques</a> (APS22), Grenoble.
 * Ouvrages collectifs
   * 2025: Dufter, Andreas/Zepp-Zwirner, Susanne (éds.): <a href="https://www.degruyter.com/document/doi/10.1515/9783111547619/html">La langue du peuple dans la littérature: le français populaire mis en texte, de l'âge classique à nos jours</a>. Berlin/Boston: De Gruyter.
