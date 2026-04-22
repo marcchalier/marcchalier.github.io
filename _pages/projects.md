@@ -26,17 +26,14 @@ author_profile: true
   * <b>Description</b>: Le projet étudie les représentations géographiques des plusieurs variétés de l’espace francophone. Il adapte la méthodologie du projet VARIPOL (Linguistic VARIeties and POLitical Boundaries in the French-speaking World) pour créer un outil de centralisation (application web) des représentations des variétés du français à large échelle auprès du grand public francophone.
 
 ---
-**Projet (collaborateur)**
-* <b>2024-2028</b>
+**Projets en tant que collaborateur**
 * <b>Native, non-native or artificial phonetic content for pronunciation education: representations and perception in the case of L2 French</b>
-* <b>Financement</b>: KAKEN, Grant-in-Aid for Scientific Research
-* <b>Porteur</b>: Sylvain DETEY (Waseda University)
-* <b>Partenaires</b>: Carmen AESCHBACHER (Waseda University), Lionel FONTAN (Archean LABS, Montauban), Marc CHALIER (Sorbonne University), Rubén PERÉZ-RAMÓN (Waseda University), Maxime LE COZ (Université de Toulouse), Julien EYCHENNE (Université de Sherbrooke), Kaori SUGIYAMA (Waseda University), Mariko KONDO (Waseda University), Yuji KAWAGUCHI (Waseda University)
-
----
-**Projet (collaborateur)**
-* <b>2022-2024</b>
+  * <b>2024-2028</b>
+  * <b>Financement</b>: KAKEN, Grant-in-Aid for Scientific Research
+  * <b>Porteur</b>: Sylvain DETEY (Waseda University)
+  * <b>Collaborateurs</b>: Carmen AESCHBACHER (Waseda University), Lionel FONTAN (Archean LABS, Montauban), Marc CHALIER (Sorbonne University), Rubén PERÉZ-RAMÓN (Waseda University), Maxime LE COZ (Université de Toulouse), Julien EYCHENNE (Université de Sherbrooke), Kaori SUGIYAMA (Waseda University), Mariko KONDO (Waseda University), Yuji KAWAGUCHI (Waseda University)
 * <b>Questions de grammaire et de traduction dans les ITEMs Mathématiques du PISA</b>
-* <b>Financement</b>: INSPE de l’Académie de Montpellier, "Recherches dans le domaine de l’éducation et de la formation"
-* <b>Porteurs</b>: Jean-Jacques SALONE (Université de Mayotte) et Viviane DURAND-GUERRIER (Université de Montpellier)
-* <b>Partenaires</b>: Nathalie AUGER (Université Paul Valery, Montpellier 3), Marc CHALIER (Paris, Sorbonne Université), Aurélie CHESNAIS (Université de Montpellier), Sylvain FARGE (Université Lumière Lyon 2), Sylvie MÉRON-MINUTH (Pädagogische Hochschule Heidelberg), Eléda ROBO (Université de Montpellier), Jérémi SAUVAGE (Université Paul Valéry, Montpellier 3)
+  * <b>2022-2024</b>
+  * <b>Financement</b>: INSPE de l’Académie de Montpellier, "Recherches dans le domaine de l’éducation et de la formation"
+  * <b>Porteurs</b>: Jean-Jacques SALONE (Université de Mayotte) et Viviane DURAND-GUERRIER (Université de Montpellier)
+  * <b>Collaborateurs</b>: Nathalie AUGER (Université Paul Valery, Montpellier 3), Marc CHALIER (Paris, Sorbonne Université), Aurélie CHESNAIS (Université de Montpellier), Sylvain FARGE (Université Lumière Lyon 2), Sylvie MÉRON-MINUTH (Pädagogische Hochschule Heidelberg), Eléda ROBO (Université de Montpellier), Jérémi SAUVAGE (Université Paul Valéry, Montpellier 3)
