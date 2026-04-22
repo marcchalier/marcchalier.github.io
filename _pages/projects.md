@@ -20,7 +20,12 @@ author_profile: true
       * Do idealized representations align with perceptions based on concrete auditory stimuli?  
 
     * The methodology involves mental maps, phonetic-phonological analyses of linguistic productions in different communication situations, and perception experiments. The project aims to fill a gap in perceptual linguistics by systematically studying the impact of political borders on varietal boundaries, focusing on often overlooked francophone areas.
-
+* <b>Le français et son patrimoine métalinguistique</b>
+  * <b>2026-2030</b>
+  * <b>Financement</b>: SPHINX, programme 11 « Restauration/préservation d’expertise/visibilisation des marges/revitalisation », axe 4 « Cartographies des variations du patrimoine linguistique et métalinguistique »
+  * <b>Porteur</b>: Marc CHALIER
+  * <b>Durée</b>: 2026-2030
+  * <b>Description</b>: Le projet étudie les représentations géographiques des plusieurs variétés de l’espace francophone. Il adapte la méthodologie du projet VARIPOL (Linguistic VARIeties and POLitical Boundaries in the French-speaking World) pour créer un outil de centralisation (application web) des représentations des variétés du français à large échelle auprès du grand public francophone.
 ---
 **Projet (collaborateur)**
 * <b>2024-2028</b>
