@@ -8,7 +8,6 @@ author_profile: true
 ---
 **Principaux projets (porteur)**
 * <b>Linguistic VARIeties and POLitical Boundaries in the French-speaking World (VARIPOL)</b>
-  * <b>2025-2027</b>
   * <b>Financement</b>: Projet Émergence – Alliance Sorbonne Université
   * <b>Porteur</b>: Marc CHALIER
   * <b>Durée</b>: 09/2025-08/2027
@@ -21,7 +20,6 @@ author_profile: true
 
     * The methodology involves mental maps, phonetic-phonological analyses of linguistic productions in different communication situations, and perception experiments. The project aims to fill a gap in perceptual linguistics by systematically studying the impact of political borders on varietal boundaries, focusing on often overlooked francophone areas.
 * <b>Le français et son patrimoine métalinguistique</b>
-  * <b>2026-2030</b>
   * <b>Financement</b>: SPHINX, programme 11 « Restauration/préservation d’expertise/visibilisation des marges/revitalisation », axe 4 « Cartographies des variations du patrimoine linguistique et métalinguistique »
   * <b>Porteur</b>: Marc CHALIER
   * <b>Durée</b>: 2026-2030
