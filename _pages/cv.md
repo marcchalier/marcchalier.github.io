@@ -63,6 +63,9 @@ redirect_from:
   * 2022: Pustka, Elissa (éd.): <a href="https://www.narr.de/la-bande-dessin%C3%A9e-18486/">La bande dessinée : perspectives linguistiques et didactiques</a>, Tübingen: Narr.
 
 ---
+**Évaluations de dossiers scientifiques**
+* 03/2026: Évaluation d'un dossier de candidature à un contrat doctoral de l'Institut des Amériques, pôle Canada.
+---
 **Assistants-étudiants**
-* Université de Passau: Maike Grömping (2021), Viktoria Wruss (2022), Linda Schönbrunner (2023), Eva Hutterer (2023)
-* Université de pédagogie de Karlsruhe: Paul Mereb (2022), Isabelle Pawlowski (2022/2023)
+* Université de Passau: Maike Grömping (2021), Viktoria Wruss (2022), Linda Schönbrunner (2023), Eva Hutterer (2023).
+* Université de pédagogie de Karlsruhe: Paul Mereb (2022), Isabelle Pawlowski (2022/2023).
