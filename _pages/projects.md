@@ -24,6 +24,7 @@ author_profile: true
   * <b>Porteur</b>: Marc CHALIER
   * <b>Durée</b>: 2026-2030
   * <b>Description</b>: Le projet étudie les représentations géographiques des plusieurs variétés de l’espace francophone. Il adapte la méthodologie du projet VARIPOL (Linguistic VARIeties and POLitical Boundaries in the French-speaking World) pour créer un outil de centralisation (application web) des représentations des variétés du français à large échelle auprès du grand public francophone.
+
 ---
 **Projet (collaborateur)**
 * <b>2024-2028</b>
