@@ -17,10 +17,10 @@ redirect_from:
   * <b><a href="/projects/"><b>Description</b></a>
 
 * <b><i>Le français et son patrimoine métalinguistique</i></b>
-* <b>Financement</b>: SPHINX, programme 11 « Restauration/préservation d'expertise/visibilisation des marges/revitalisation », axe 4 « Cartographies des variations du patrimoine linguistique et métalinguistique »
-* <b>Porteur</b>: Marc CHALIER
-* <b>Durée</b>: 2026-2030
-* <b><a href="/projects/"><b>Description</b></a>  
+  * <b>Financement</b>: SPHINX, programme 11 « Restauration/préservation d'expertise/visibilisation des marges/revitalisation », axe 4 « Cartographies des variations du patrimoine linguistique et métalinguistique »
+  * <b>Porteur</b>: Marc CHALIER
+  * <b>Durée</b>: 2026-2030
+  * <b><a href="/projects/"><b>Description</b></a>  
 
 ---
 **Publications**
