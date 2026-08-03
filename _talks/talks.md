@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 **Communications scientifiques (sur invitation)**
-1. 2026a: "Zum Einfluss politischer Grenzen auf die Repräsentationen und Perzeptionen des Varietätenraums in der Frankophonie: Erste Ergebnisse aus dem Projekt VARIPOL" (invitation: Benjamin Meisnitzer), Université de Leipzig, Leipzig (06/07/2026) (<a href="/images/Annonce_Conference_invitée_Leipzig_2026_Projet_VARIPOL_Chalier.png">Annonce</a>).
+1. 2026a: "Zum Einfluss politischer Grenzen auf die Repräsentationen und Perzeptionen des Varietätenraums in der Frankophonie: Erste Ergebnisse aus dem Projekt VARIPOL" (invitation: Benjamin Meisnitzer), Université de Leipzig, Leipzig (06/07/2026) (<a href="/images/annonce_conference_invitee_leipzig_2026_projet_varipol_chalier.png">Annonce</a>).
 2. 2025a: "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025) (<a href="/images/Affiche_FrancophoniesAmericaines2025.pdf">Annonce</a>).
 3. 2024a: "Retour d’expériences sur l’enseignement du FLE en Allemagne. Enseignement de deux aspects négligés : la prononciation et la variation" (invitation: Inès Sfar), Sorbonne Université, Paris (26/11/2024).
 4. 2023d: "Enseigner les accents du français. Regionale Varietäten im Französischunterricht" (invitation: Sybille Große), Université de Heidelberg (programme: <i>Kurzzeitgastdozentur</i>, DAAD) (02/11/2023) (<a href="/images/conference_invitee_chalier_heidelberg_2023.jpg">Annonce</a>).
