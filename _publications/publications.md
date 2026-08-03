@@ -27,7 +27,7 @@ Comptes rendus
 ---
 **Articles dans des revues avec comité de lecture**
 * <b>Chalier, Marc</b> (à paraître): "Ce que les variétés subsahariennes du français nous apprennent sur la classification phonétique et phonologique des variantes du /R/", <i>Langue française</i>.
-* <b>Chalier, Marc</b> (à paraître): "Aperçu historique et état actuel de la recherche en phonétique et en phonologie", <i>Le français moderne</i>.
+* <b>Chalier, Marc</b> (2026): "Aperçu historique et état actuel de la recherche en phonétique et en phonologie", <i>Le français moderne</i> 94.2, 234-249.
 * <b>Chalier, Marc</b>/Alleesaib, Muhsina (2025): "Palatales et palatalisations : /ɲ/ et l’affrication des plosives /t/ et /d/ en créole mauricien", <i>Études créoles</i> 42.1-2, 1-21.
 * Sommer, Luana/<b>Chalier, Marc</b> (2025): "Attitudes face à la réforme de la politique linguistique au Mali. Analyse des discours sur X", <i>Circula: revue d’idéologies linguistiques – rivista di ideo logie linguistiche – revista de ideologías lingüísticas</i> 21-22, 222-238.
 * <b>Chalier, Marc</b> (2019): "La norme de prononciation québécoise en changement (1970-2008) ? L’affrication de /t/ et /d/ et l’antériorisation de /ɑ̃/ chez les présentateurs des journaux télévisés de Radio-Canada", <i>Revue Canadienne de Linguistique/Canadian Journal of Linguistics</i> 64.3, 407-433.
