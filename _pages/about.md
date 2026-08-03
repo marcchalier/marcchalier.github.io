@@ -39,6 +39,9 @@ redirect_from:
 ---
 **Conférences**
 * 11/2026: "Évaluation perceptive par des étudiants français de voyelles natives et non-natives du français : aussi idéales qu'acceptables pour l'enseignement de la prononciation en FLE ?", Colloque international (Inter)phonologie du français contemporain - (I)PFC 2026, Paris (26/11-28/11/2026).
+<p align="center">
+  <img src="images/annonce_conference_invitee_leipzig_2026_projet_varipol_chalier.jpg" width="50%" />
+</p>
 * 07/2026: Conférence invitée "Zum Einfluss politischer Grenzen auf die Repräsentationen und Perzeptionen des Varietätenraums in der Frankophonie: Erste Ergebnisse aus dem Projekt VARIPOL" (invitation: Benjamin Meisnitzer), Université de Leipzig, Leipzig (06/07/2026).
 * 07/2025: "Les variantes du /R/ dans les variétés algériennes et ivoiriennes du français à la lumière de facteurs sociolinguistiques et phonologiques", XXXIe Congrès international de linguistique et de philologie romanes, Section 8 : La diatopia nelle lingue romanze e contatto linguistico, Lecce (30/06-05/07/2025).
 * 04/2025: Conférence invitée "Francophonie(s) canadienne(s) : histoire, aménagements linguistiques et normes" (invitation: Philipp Krämer), Vrije Universiteit Brussel, Bruxelles (29/04/2025).
