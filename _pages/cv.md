@@ -68,6 +68,7 @@ redirect_from:
 ---
 **Évaluations de dossiers scientifiques**
 * 03/2026: Évaluation d'un dossier de candidature à un contrat doctoral de l'Institut des Amériques, pôle Canada.
+
 ---
 **Assistants-étudiants**
 * Université de Passau: Maike Grömping (2021), Viktoria Wruss (2022), Linda Schönbrunner (2023), Eva Hutterer (2023).
