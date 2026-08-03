@@ -26,7 +26,7 @@ redirect_from:
 **Publications**
 
 * <b>Chalier, Marc</b> (à paraître): "Ce que les variétés subsahariennes du français nous apprennent sur la classification phonétique et phonologique des variantes du /R/", <i>Langue française</i>.
-* <b>Chalier, Marc</b> (à paraître): "Aperçu historique et état actuel de la recherche en phonétique et en phonologie", <i>Le français moderne</i>.
+* <b>Chalier, Marc</b> (2026): <a href="http://www.le-francais-moderne.com/pages/page-1.html">"Aperçu historique et état actuel de la recherche en phonétique et en phonologie"</a>, <i>Le français moderne</i> 94.2, 234-249.
 * <b>Chalier, Marc</b>/Meisnitzer, Benjamin (à paraître): <a href="https://www.degruyterbrill.com/document/isbn/9783111206752/html?srsltid=AfmBOoomt3njYm0hTxeLY8komZ_iI1o__xtfkWbycAeEf5VX9-tHe2mr">"Norms and Pluricentrics"</a>, in: Pustka, Elissa/Reimann, Daniel (éds.): <i>Manual of Pedagogical Linguistics</i>, Berlin: de Gruyter.
 * Pustka, Elissa/<b>Chalier, Marc</b> (à paraître): <a href="https://langsci-press.org/catalog/book/401">"Frequency effects on French schwa. New insights from Parisian newscasters’ speech"</a>, in: Andreassen, Helene N./Pustka, Elissa (éds.): <i>French schwa: Phonological analysis in light of quantitative data</i>, Language Science Press.
 * <b>Chalier, Marc</b>/Fontalvo García, Gabriel/Grandits, Lisa/Heidepeter, Philipp/Pirwitz, Anne (éds.) (2026): <a href="https://www.avm-verlag.de/detailview?no=L95477183"><i>Migration und Transnationalisierung in der Romania. Beiträge zum 38. Forum Junge Romanistik in Passau (12.–14. April 2023)</i></a>. Munich: Akademische Verlagsgemeinschaft.
